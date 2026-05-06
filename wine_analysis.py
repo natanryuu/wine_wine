@@ -45,7 +45,7 @@ warnings.filterwarnings('ignore')
 # ============================================================================
 
 # 請依據你的檔案實際路徑修改此處
-DATA_DIR = "/mnt/user-data/uploads"
+DATA_DIR = "/raw_data"
 
 FILES = {
     "2019-2020": os.path.join(DATA_DIR, "Campagne-2019-2020.xls"),
@@ -56,7 +56,7 @@ FILES = {
     "2024-2025": os.path.join(DATA_DIR, "Etats_161_DATADOUANE_Campagne_2024-2025.xlsx"),
 }
 
-OUTPUT_DIR = "/home/claude"
+OUTPUT_DIR = DATA_DIR
 
 # ============================================================================
 # 2. 月份對照表 (法文月份 → 數字)
