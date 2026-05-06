@@ -1,0 +1,979 @@
+﻿country,year,commodity,flow,trade_usd,weight_kg,qty_name,quantity,commodity_short,volume_litres,price_per_litre,price_per_bottle_750ml
+France,2024,Wine; sparkling,Export,4657652100.617,218124647.52,Volume in litres,207671287.642,Sparkling,207671287.642,22.42800222169482,16.821001666271115
+France,2024,Wine; sparkling,Import,175430054.784,42102658.929,Volume in litres,41961721.0,Sparkling,41961721.0,4.180716391112748,3.135537293334561
+France,2024,"Wine; still, in containers holding 2 litres or less",Import,509956684.943,,No Quantity,,Still_Bottled,,,
+France,2024,"Wine; still, in containers holding 2 litres or less",Export,7643318162.424,929651074.929,Volume in litres,903189036.359,Still_Bottled,903189036.359,8.462589618266724,6.346942213700043
+France,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,164376954.378,,No Quantity,,Still_2to10L,,,
+France,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,24483683.047,,No Quantity,,Still_2to10L,,,
+France,2024,"Wine; still, in containers holding more than 10 litres",Export,192576872.754,128673393.538,No Quantity,,Still_Bulk,128673393.538,1.4966332002204321,1.122474900165324
+France,2024,"Wine; still, in containers holding more than 10 litres",Import,251981314.321,387127024.113,Volume in litres,381330156.904,Still_Bulk,381330156.904,0.6607956642265679,0.49559674816992594
+France,2023,Wine; sparkling,Export,4898519942.5,221252524.0,Volume in litres,209972752.0,Sparkling,209972752.0,23.329312474315714,17.496984355736785
+France,2023,Wine; sparkling,Import,176597214.488,39549894.0,Volume in litres,39520371.0,Sparkling,39520371.0,4.468511049352244,3.3513832870141833
+France,2023,"Wine; still, in containers holding 2 litres or less",Import,582034091.6,,No Quantity,,Still_Bottled,,,
+France,2023,"Wine; still, in containers holding 2 litres or less",Export,7534701498.392,912741357.0,Volume in litres,893018672.356,Still_Bottled,893018672.356,8.437339253515976,6.328004440136982
+France,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,152717208.875,53688431.803,Volume in litres,44464755.923,Still_2to10L,44464755.923,3.434567573910935,2.575925680433201
+France,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,20532101.698,19526421.811,Volume in litres,17255815.398,Still_2to10L,17255815.398,1.1898656322192536,0.8923992241644402
+France,2023,"Wine; still, in containers holding more than 10 litres",Import,250147836.224,,No Quantity,,Still_Bulk,,,
+France,2023,"Wine; still, in containers holding more than 10 litres",Export,191934704.945,116611856.0,Volume in litres,114787764.482,Still_Bulk,114787764.482,1.6720833079304154,1.2540624809478116
+France,2022,Wine; sparkling,Export,4887704117.263,249669602.0,Volume in litres,237054479.0,Sparkling,237054479.0,20.618484568954294,15.46386342671572
+France,2022,Wine; sparkling,Import,138787875.244,35929415.0,Volume in litres,35764602.0,Sparkling,35764602.0,3.8805933096641194,2.9104449822480896
+France,2022,"Wine; still, in containers holding 2 litres or less",Import,616986023.704,101635982.795,Volume in litres,100236749.101,Still_Bottled,100236749.101,6.1552876488673425,4.616465736650507
+France,2022,"Wine; still, in containers holding 2 litres or less",Export,7707637913.587,1029054651.448,Volume in litres,1005411807.844,Still_Bottled,1005411807.844,7.666150181899315,5.749612636424486
+France,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,140212680.579,48122857.367,Volume in litres,43296375.546,Still_2to10L,43296375.546,3.238439218313593,2.428829413735195
+France,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,18496601.213,19335984.004,Volume in litres,16292113.944,Still_2to10L,16292113.944,1.1353100817105357,0.8514825612829018
+France,2022,"Wine; still, in containers holding more than 10 litres",Export,195626056.054,,No Quantity,,Still_Bulk,,,
+France,2022,"Wine; still, in containers holding more than 10 litres",Import,266282921.216,464020285.529,Volume in litres,459116270.726,Still_Bulk,459116270.726,0.5799901641362593,0.43499262310219444
+France,2021,Wine; sparkling,Export,4630034827.776,241487829.0,Volume in litres,226356613.0,Sparkling,226356613.0,20.454603761790693,15.34095282134302
+France,2021,Wine; sparkling,Import,135554998.812,33991266.0,Volume in litres,33953083.0,Sparkling,33953083.0,3.9924209183596084,2.9943156887697064
+France,2021,"Wine; still, in containers holding 2 litres or less",Export,8046984871.454,1057017711.938,Volume in litres,1024462142.989,Still_Bottled,1024462142.989,7.854838684400663,5.891129013300498
+France,2021,"Wine; still, in containers holding 2 litres or less",Import,588780987.436,98808344.267,Volume in litres,99579226.625,Still_Bottled,99579226.625,5.912688894976643,4.434516671232482
+France,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,155612241.339,,No Quantity,,Still_2to10L,,,
+France,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,18481562.769,19235850.942,Volume in litres,16549136.383,Still_2to10L,16549136.383,1.1167690169007898,0.8375767626755923
+France,2021,"Wine; still, in containers holding more than 10 litres",Export,265099584.581,164788838.98,Volume in litres,163948617.238,Still_Bulk,163948617.238,1.6169674929076208,1.2127256196807155
+France,2021,"Wine; still, in containers holding more than 10 litres",Import,229294549.861,443995118.186,Volume in litres,441022406.131,Still_Bulk,441022406.131,0.5199158742807526,0.38993690571056444
+France,2020,Wine; sparkling,Export,3188494725.258,191312948.0,Volume in litres,170557467.0,Sparkling,170557467.0,18.694547833886393,14.020910875414796
+France,2020,Wine; sparkling,Import,106055921.993,32450238.0,Volume in litres,28627316.0,Sparkling,28627316.0,3.7047106334732884,2.7785329751049663
+France,2020,"Wine; still, in containers holding 2 litres or less",Export,6363361334.373,996603685.023,Volume in litres,961292796.147,Still_Bottled,961292796.147,6.619587039326904,4.964690279495178
+France,2020,"Wine; still, in containers holding 2 litres or less",Import,474351601.331,97033997.68,Volume in litres,96416471.452,Still_Bottled,96416471.452,4.919819136579285,3.689864352434464
+France,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,18747193.043,,No Quantity,,Still_2to10L,,,
+France,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,136797823.509,51345847.0,Volume in litres,49231342.0,Still_2to10L,49231342.0,2.778673461897504,2.084005096423128
+France,2020,"Wine; still, in containers holding more than 10 litres",Export,267029451.189,174627177.978,Volume in litres,173380594.03,Still_Bulk,173380594.03,1.5401345962789583,1.1551009472092186
+France,2020,"Wine; still, in containers holding more than 10 litres",Import,273466340.15,487277536.0,Volume in litres,485052982.0,Still_Bulk,485052982.0,0.5637865352820364,0.4228399014615273
+France,2019,Wine; sparkling,Import,107050715.457,38342200.491,No Quantity,,Sparkling,38342200.491,2.7919815265200505,2.093986144890038
+France,2019,Wine; sparkling,Export,3856016770.579,213278530.716,Volume in litres,218141583.957,Sparkling,218141583.957,17.67666989774447,13.257502423308352
+France,2019,"Wine; still, in containers holding 2 litres or less",Export,6756920697.364,1053737021.826,Volume in litres,1074042262.932,Still_Bottled,1074042262.932,6.2911124920898915,4.718334369067419
+France,2019,"Wine; still, in containers holding 2 litres or less",Import,553124529.686,113849192.106,Volume in litres,114180459.798,Still_Bottled,114180459.798,4.844301123542056,3.6332258426565422
+France,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,125691715.747,,No Quantity,,Still_2to10L,,,
+France,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,16138384.412,,No Quantity,,Still_2to10L,,,
+France,2019,"Wine; still, in containers holding more than 10 litres",Export,224608130.462,,No Quantity,,Still_Bulk,,,
+France,2019,"Wine; still, in containers holding more than 10 litres",Import,293654429.373,561287149.0,Volume in litres,561287149.0,Still_Bulk,561287149.0,0.5231803897455704,0.39238529230917774
+Italy,2024,Wine; sparkling,Re-Export,588664.519,140019.0,Volume in litres,151493.0,Sparkling,151493.0,3.885753922623487,2.9143154419676156
+Italy,2024,Wine; sparkling,Export,2584844251.945,555596971.0,Volume in litres,553106312.0,Sparkling,553106312.0,4.673322643161231,3.504991982370923
+Italy,2024,Wine; sparkling,Import,338077921.53,12342052.0,Volume in litres,11294372.0,Sparkling,11294372.0,29.933308512416623,22.449981384312466
+Italy,2024,"Wine; still, in containers holding 2 litres or less",Re-Export,307436.099,62003.0,Volume in litres,62003.0,Still_Bottled,62003.0,4.958406835153138,3.7188051263648534
+Italy,2024,"Wine; still, in containers holding 2 litres or less",Export,5741863053.065,1201242729.569,Volume in litres,1196877642.0,Still_Bottled,1196877642.0,4.797368462385397,3.598026346789048
+Italy,2024,"Wine; still, in containers holding 2 litres or less",Import,139892884.921,22063664.733,Volume in litres,21393588.038,Still_Bottled,21393588.038,6.539009944125204,4.904257458093903
+Italy,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,2074951.484,,No Quantity,,Still_2to10L,,,
+Italy,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,116756397.138,46430874.0,Volume in litres,44655735.0,Still_2to10L,44655735.0,2.6145890810665193,1.9609418107998895
+Italy,2024,"Wine; still, in containers holding more than 10 litres",Re-Export,24959.693,10040.0,Volume in litres,10040.0,Still_Bulk,10040.0,2.486025199203187,1.8645188994023902
+Italy,2024,"Wine; still, in containers holding more than 10 litres",Export,328964390.257,359995966.083,Volume in litres,360437191.507,Still_Bulk,360437191.507,0.9126815933771675,0.6845111950328756
+Italy,2024,"Wine; still, in containers holding more than 10 litres",Import,113650567.422,209657260.649,Volume in litres,208989838.237,Still_Bulk,208989838.237,0.5438090597166608,0.4078567947874956
+Italy,2023,Wine; sparkling,Re-Export,565562.958,122500.0,Volume in litres,122500.0,Sparkling,122500.0,4.616840473469388,3.462630355102041
+Italy,2023,Wine; sparkling,Export,2396586800.841,502872712.0,Volume in litres,500146115.0,Sparkling,500146115.0,4.791773301770024,3.593829976327518
+Italy,2023,Wine; sparkling,Import,389094746.461,14038263.0,Volume in litres,12568779.0,Sparkling,12568779.0,30.957243059250228,23.21793229443767
+Italy,2023,"Wine; still, in containers holding 2 litres or less",Re-Export,17979.335,2771.0,Volume in litres,2771.0,Still_Bottled,2771.0,6.488392277156261,4.866294207867195
+Italy,2023,"Wine; still, in containers holding 2 litres or less",Export,5512628125.789,1170230590.0,Volume in litres,1165361183.0,Still_Bottled,1165361183.0,4.73040307692229,3.5478023076917173
+Italy,2023,"Wine; still, in containers holding 2 litres or less",Import,126257799.124,17953189.88,Volume in litres,17519572.764,Still_Bottled,17519572.764,7.206671122907755,5.405003342180816
+Italy,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,1563821.505,,No Quantity,,Still_2to10L,,,
+Italy,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,131052346.382,48891146.41,Volume in litres,47113641.099,Still_2to10L,47113641.099,2.781622123126069,2.0862165923445515
+Italy,2023,"Wine; still, in containers holding more than 10 litres",Export,323743939.362,,No Quantity,,Still_Bulk,,,
+Italy,2023,"Wine; still, in containers holding more than 10 litres",Import,74799722.708,138305751.282,Volume in litres,137512222.417,Still_Bulk,137512222.417,0.5439496314820148,0.40796222361151113
+Italy,2022,Wine; sparkling,Re-Export,662767.747,190951.0,Volume in litres,196691.0,Sparkling,196691.0,3.369588578023397,2.527191433517548
+Italy,2022,Wine; sparkling,Export,2260486782.567,513745279.0,Volume in litres,511687011.0,Sparkling,511687011.0,4.417713824998774,3.3132853687490806
+Italy,2022,Wine; sparkling,Import,302648456.112,12288153.0,Volume in litres,11613033.0,Sparkling,11613033.0,26.061103599033945,19.54582769927546
+Italy,2022,"Wine; still, in containers holding 2 litres or less",Export,5516707747.807,1213735942.466,Volume in litres,1214458101.843,Still_Bottled,1214458101.843,4.542526201138701,3.4068946508540257
+Italy,2022,"Wine; still, in containers holding 2 litres or less",Re-Export,210673.962,33344.0,Volume in litres,33344.0,Still_Bottled,33344.0,6.318197036948177,4.738647777711132
+Italy,2022,"Wine; still, in containers holding 2 litres or less",Import,107750672.695,16988785.68,Volume in litres,16748027.976,Still_Bottled,16748027.976,6.433633431315448,4.825225073486585
+Italy,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,118404229.841,50294137.39,Volume in litres,47694730.776,Still_2to10L,47694730.776,2.4825432058121826,1.8619074043591368
+Italy,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,1058255.955,1101797.0,Volume in litres,1078555.401,Still_2to10L,1078555.401,0.9811790419099667,0.7358842814324751
+Italy,2022,"Wine; still, in containers holding more than 10 litres",Export,314493564.11,363887796.233,Volume in litres,364816769.301,Still_Bulk,364816769.301,0.862058958289059,0.6465442187167942
+Italy,2022,"Wine; still, in containers holding more than 10 litres",Import,73873976.114,159330996.744,Volume in litres,160611587.996,Still_Bulk,160611587.996,0.4599542102518768,0.34496565768890763
+Italy,2021,Wine; sparkling,Re-Export,133818.787,38375.0,Volume in litres,38375.0,Sparkling,38375.0,3.487134514657981,2.6153508859934855
+Italy,2021,Wine; sparkling,Export,2148611116.648,491197726.0,Volume in litres,489290173.0,Sparkling,489290173.0,4.391281973791041,3.2934614803432805
+Italy,2021,Wine; sparkling,Import,273313808.287,12642104.0,Volume in litres,11949466.0,Sparkling,11949466.0,22.872470475835488,17.154352856876617
+Italy,2021,"Wine; still, in containers holding 2 litres or less",Re-Export,117754.808,16545.0,Volume in litres,16545.0,Still_Bottled,16545.0,7.11724436385615,5.337933272892112
+Italy,2021,"Wine; still, in containers holding 2 litres or less",Export,5827453554.135,1264074470.0,Volume in litres,1265792454.0,Still_Bottled,1265792454.0,4.603798620950698,3.4528489657130237
+Italy,2021,"Wine; still, in containers holding 2 litres or less",Import,110032307.398,22497680.235,Volume in litres,22878509.045,Still_Bottled,22878509.045,4.809417745779508,3.607063309334631
+Italy,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,968893.766,,No Quantity,,Still_2to10L,,,
+Italy,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,123568268.764,51184513.766,Volume in litres,48508420.786,Still_2to10L,48508420.786,2.5473570724789085,1.9105178043591815
+Italy,2021,"Wine; still, in containers holding more than 10 litres",Export,317284229.001,372860295.595,Volume in litres,373742774.323,Still_Bulk,373742774.323,0.8489374264846474,0.6367030698634856
+Italy,2021,"Wine; still, in containers holding more than 10 litres",Import,98342765.692,239235868.865,Volume in litres,240704861.009,Still_Bulk,240704861.009,0.4085616105954875,0.30642120794661565
+Italy,2020,Wine; sparkling,Re-Export,463852.649,111918.0,Volume in litres,111918.0,Sparkling,111918.0,4.14457593059204,3.1084319479440303
+Italy,2020,Wine; sparkling,Export,1682830096.426,408356794.0,Volume in litres,408122377.0,Sparkling,408122377.0,4.1233467980757155,3.0925100985567866
+Italy,2020,Wine; sparkling,Import,174231263.158,7520746.059,Volume in litres,6911505.025,Sparkling,6911505.025,25.2088745544969,18.906655915872676
+Italy,2020,"Wine; still, in containers holding 2 litres or less",Re-Export,180018.085,25945.0,Volume in litres,25945.0,Still_Bottled,25945.0,6.938449990364232,5.203837492773173
+Italy,2020,"Wine; still, in containers holding 2 litres or less",Export,5046864191.664,1197785835.0,Volume in litres,1198015354.0,Still_Bottled,1198015354.0,4.212687404058095,3.1595155530435717
+Italy,2020,"Wine; still, in containers holding 2 litres or less",Import,74027361.811,19074807.0,Volume in litres,19163927.0,Still_Bottled,19163927.0,3.8628492902837714,2.8971369677128287
+Italy,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,128528817.897,56496120.0,Volume in litres,53555493.78,Still_2to10L,53555493.78,2.3999184551445283,1.7999388413583963
+Italy,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,589342.297,169849.0,Volume in litres,106344.801,Still_2to10L,106344.801,5.541806383181816,4.156354787386363
+Italy,2020,"Wine; still, in containers holding more than 10 litres",Export,308912961.839,378214976.813,Volume in litres,378823284.045,Still_Bulk,378823284.045,0.8154539988685187,0.611590499151389
+Italy,2020,"Wine; still, in containers holding more than 10 litres",Import,67239173.337,127393770.497,Volume in litres,127890820.086,Still_Bulk,127890820.086,0.5257544934951947,0.394315870121396
+Italy,2019,Wine; sparkling,Import,218586812.308,9223341.0,Volume in litres,8904197.0,Sparkling,8904197.0,24.54873946611918,18.411554599589387
+Italy,2019,Wine; sparkling,Export,1767753470.658,417842655.0,Volume in litres,417917814.0,Sparkling,417917814.0,4.229906961223721,3.1724302209177906
+Italy,2019,Wine; sparkling,Re-Export,411747.542,125559.0,Volume in litres,125559.0,Sparkling,125559.0,3.279315238254526,2.4594864286908944
+Italy,2019,"Wine; still, in containers holding 2 litres or less",Import,77622670.388,18550329.437,Volume in litres,18507194.471,Still_Bottled,18507194.471,4.194188941475245,3.1456417061064337
+Italy,2019,"Wine; still, in containers holding 2 litres or less",Re-Export,302979.351,71876.0,Volume in litres,71876.0,Still_Bottled,71876.0,4.215306235739329,3.161479676804497
+Italy,2019,"Wine; still, in containers holding 2 litres or less",Export,4950001710.661,1201900504.0,Volume in litres,1194940642.0,Still_Bottled,1194940642.0,4.142466610204225,3.1068499576531687
+Italy,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,212273.987,64144.146,No Quantity,,Still_2to10L,64144.146,3.3093275105728277,2.4819956329296207
+Italy,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,104161478.165,45228466.973,Volume in litres,42068605.435,Still_2to10L,42068605.435,2.475990755765351,1.8569930668240133
+Italy,2019,"Wine; still, in containers holding more than 10 litres",Import,58398433.748,110604753.0,Volume in litres,110989575.0,Still_Bulk,110989575.0,0.5261614322606425,0.39462107419548187
+Italy,2019,"Wine; still, in containers holding more than 10 litres",Export,328941908.378,452275490.69,Volume in litres,453534273.153,Still_Bulk,453534273.153,0.7252856682498862,0.5439642511874146
+Portugal,2024,Wine; sparkling,Import,34153600.498,6463650.0,Volume in litres,6492790.0,Sparkling,6492790.0,5.260234891009874,3.945176168257406
+Portugal,2024,Wine; sparkling,Export,12852373.397,2681768.0,Volume in litres,2677984.0,Sparkling,2677984.0,4.799271913872525,3.599453935404394
+Portugal,2024,"Wine; still, in containers holding 2 litres or less",Import,60798616.008,62718165.343,Volume in litres,62368790.0,Still_Bottled,62368790.0,0.9748243634035549,0.7311182725526661
+Portugal,2024,"Wine; still, in containers holding 2 litres or less",Export,905776500.185,253743048.642,Volume in litres,252769423.0,Still_Bottled,252769423.0,3.58341008748119,2.6875575656108923
+Portugal,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,3140264.465,5858778.0,Volume in litres,5902280.0,Still_2to10L,5902280.0,0.532042611499285,0.3990319586244637
+Portugal,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,44473501.031,31081734.0,Volume in litres,31088014.0,Still_2to10L,31088014.0,1.4305674537781667,1.072925590333625
+Portugal,2024,"Wine; still, in containers holding more than 10 litres",Import,61484469.057,131895021.0,Volume in litres,132262126.0,Still_Bulk,132262126.0,0.4648682953803419,0.3486512215352564
+Portugal,2024,"Wine; still, in containers holding more than 10 litres",Export,48330872.465,59292223.0,Volume in litres,59489700.0,Still_Bulk,59489700.0,0.8124242089807143,0.6093181567355357
+Portugal,2023,Wine; sparkling,Export,11184564.754,1728788.0,Volume in litres,1729779.0,Sparkling,1729779.0,6.465892321504655,4.8494192411284915
+Portugal,2023,Wine; sparkling,Import,38599467.796,5976707.0,Volume in litres,5983375.0,Sparkling,5983375.0,6.45111960991915,4.838339707439363
+Portugal,2023,"Wine; still, in containers holding 2 litres or less",Export,900729214.738,241099324.274,Volume in litres,240090229.23,Still_Bottled,240090229.23,3.7516279509864003,2.8137209632398004
+Portugal,2023,"Wine; still, in containers holding 2 litres or less",Import,64012438.752,58121327.375,Volume in litres,57837394.292,Still_Bottled,57837394.292,1.1067656061548077,0.8300742046161058
+Portugal,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,49274996.153,33259248.437,Volume in litres,33261932.863,Still_2to10L,33261932.863,1.4814231138026452,1.111067335351984
+Portugal,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,3070373.617,6300019.0,Volume in litres,6342245.0,Still_2to10L,6342245.0,0.4841146340136655,0.3630859755102491
+Portugal,2023,"Wine; still, in containers holding more than 10 litres",Export,42155102.876,44203766.0,Volume in litres,44404297.0,Still_Bulk,44404297.0,0.9493473768090508,0.712010532606788
+Portugal,2023,"Wine; still, in containers holding more than 10 litres",Import,102336827.486,220241432.0,Volume in litres,220911374.0,Still_Bulk,220911374.0,0.4632483408753775,0.34743625565653313
+Portugal,2022,Wine; sparkling,Import,35208446.114,6196733.646,Volume in litres,6207564.0,Sparkling,6207564.0,5.6718619596994895,4.253896469774617
+Portugal,2022,Wine; sparkling,Export,12619196.674,2022931.596,Volume in litres,2022264.0,Sparkling,2022264.0,6.24013317450145,4.680099880876087
+Portugal,2022,"Wine; still, in containers holding 2 litres or less",Export,887563037.139,249534300.672,Volume in litres,248508548.0,Still_Bottled,248508548.0,3.571559386114155,2.6786695395856164
+Portugal,2022,"Wine; still, in containers holding 2 litres or less",Import,61397423.302,57463029.853,Volume in litres,57234487.891,Still_Bottled,57234487.891,1.072734736771439,0.8045510525785793
+Portugal,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,4572004.388,7737268.0,Volume in litres,7768087.0,Still_2to10L,7768087.0,0.5885624592000579,0.4414218444000434
+Portugal,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,49568810.258,36067077.142,Volume in litres,36050094.332,Still_2to10L,36050094.332,1.374998073555665,1.0312485551667487
+Portugal,2022,"Wine; still, in containers holding more than 10 litres",Export,38921578.774,,No Quantity,,Still_Bulk,,,
+Portugal,2022,"Wine; still, in containers holding more than 10 litres",Import,106343231.079,,No Quantity,,Still_Bulk,,,
+Portugal,2021,Wine; sparkling,Export,12070232.696,1860433.61,Volume in litres,1856174.53,Sparkling,1856174.53,6.502746644196223,4.877059983147167
+Portugal,2021,Wine; sparkling,Import,30233648.966,5440173.964,Volume in litres,5450940.583,Sparkling,5450940.583,5.54650128828968,4.15987596621726
+Portugal,2021,"Wine; still, in containers holding 2 litres or less",Export,1004484197.914,262867630.098,Volume in litres,261738499.519,Still_Bottled,261738499.519,3.83773957503368,2.8783046812752597
+Portugal,2021,"Wine; still, in containers holding 2 litres or less",Import,62573285.329,61914706.476,Volume in litres,61718783.517,Still_Bottled,61718783.517,1.0138450851314114,0.7603838138485586
+Portugal,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,3126073.71,5608831.29,Volume in litres,5648067.75,Still_2to10L,5648067.75,0.5534766664227779,0.41510749981708345
+Portugal,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,51236751.391,35136869.46,Volume in litres,35106288.84,Still_2to10L,35106288.84,1.4594750138505383,1.0946062603879039
+Portugal,2021,"Wine; still, in containers holding more than 10 litres",Export,28945932.175,29833066.42,Volume in litres,29949079.32,Still_Bulk,29949079.32,0.9665049087392114,0.7248786815544085
+Portugal,2021,"Wine; still, in containers holding more than 10 litres",Import,103423900.855,219616413.9,Volume in litres,220356719.45,Still_Bulk,220356719.45,0.4693476155986584,0.3520107116989938
+Portugal,2020,Wine; sparkling,Export,11229359.484,2098004.0,Volume in litres,2096460.0,Sparkling,2096460.0,5.356343304427463,4.017257478320597
+Portugal,2020,Wine; sparkling,Import,20362245.622,3989069.448,Volume in litres,3999324.0,Sparkling,3999324.0,5.091421855793629,3.8185663918452217
+Portugal,2020,"Wine; still, in containers holding 2 litres or less",Export,895518733.971,254239019.11,Volume in litres,253276012.409,Still_Bottled,253276012.409,3.535742392078099,2.651806794058574
+Portugal,2020,"Wine; still, in containers holding 2 litres or less",Import,51706517.323,51325133.839,Volume in litres,51206824.863,Still_Bottled,51206824.863,1.0097583175941272,0.7573187381955954
+Portugal,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,48784307.085,35731637.0,Volume in litres,35737758.0,Still_2to10L,35737758.0,1.3650634459218176,1.0237975844413632
+Portugal,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,4903048.802,8579080.0,Volume in litres,8614344.0,Still_2to10L,8614344.0,0.5691726267258425,0.42687947004438187
+Portugal,2020,"Wine; still, in containers holding more than 10 litres",Export,22253438.934,23804443.0,Volume in litres,23890733.0,Still_Bulk,23890733.0,0.9314673992631369,0.6986005494473527
+Portugal,2020,"Wine; still, in containers holding more than 10 litres",Import,105891877.519,202541600.0,Volume in litres,203242276.0,Still_Bulk,203242276.0,0.5210130471034481,0.39075978532758604
+Portugal,2019,Wine; sparkling,Export,11000492.375,1754910.0,Volume in litres,1757741.0,Sparkling,1757741.0,6.2583124447799765,4.693734333584983
+Portugal,2019,Wine; sparkling,Import,26828242.571,4390633.115,Volume in litres,4407655.0,Sparkling,4407655.0,6.086738315725709,4.565053736794281
+Portugal,2019,"Wine; still, in containers holding 2 litres or less",Export,847608523.437,238386209.28,Volume in litres,237407762.0,Still_Bottled,237407762.0,3.5702645789525618,2.677698434214421
+Portugal,2019,"Wine; still, in containers holding 2 litres or less",Import,47479828.694,49914798.332,Volume in litres,49661695.036,Still_Bottled,49661695.036,0.9560654073442649,0.7170490555081988
+Portugal,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,32881899.827,27512310.0,Volume in litres,27571875.0,Still_2to10L,27571875.0,1.1925884556998754,0.8944413417749065
+Portugal,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,5944184.288,14447991.0,Volume in litres,14578316.0,Still_2to10L,14578316.0,0.407741490032182,0.3058061175241365
+Portugal,2019,"Wine; still, in containers holding more than 10 litres",Export,25678267.421,29287547.0,Volume in litres,29391455.0,Still_Bulk,29391455.0,0.8736643837809323,0.6552482878356992
+Portugal,2019,"Wine; still, in containers holding more than 10 litres",Import,103858761.824,218353362.0,Volume in litres,219071122.0,Still_Bulk,219071122.0,0.4740869580427858,0.35556521853208933
+Spain,2024,Wine; sparkling,Export,533898830.251,171770469.899,Volume in litres,154303914.117,Sparkling,154303914.117,3.4600472276171454,2.595035420712859
+Spain,2024,Wine; sparkling,Re-Export,4288.858,1750.5,Volume in litres,1750.5,Sparkling,1750.5,2.450075978291917,1.8375569837189376
+Spain,2024,Wine; sparkling,Import,140107596.551,,Volume in litres,10528279.768,Sparkling,10528279.768,13.30773874159838,9.980804056198785
+Spain,2024,"Wine; still, in containers holding 2 litres or less",Export,1914421828.922,640154770.913,Volume in litres,633512138.984,Still_Bottled,633512138.984,3.021918146655041,2.2664386099912806
+Spain,2024,"Wine; still, in containers holding 2 litres or less",Re-Export,2711305.558,1222053.5,Volume in litres,965243.22,Still_Bottled,965243.22,2.808935097207935,2.106701322905951
+Spain,2024,"Wine; still, in containers holding 2 litres or less",Import,138028616.219,27151205.917,Volume in litres,27398113.234,Still_Bottled,27398113.234,5.037887647230826,3.7784157354231196
+Spain,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,755012.129,207310.145,Volume in litres,189591.775,Still_2to10L,189591.775,3.9823042376179028,2.986728178213427
+Spain,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,354780.286,330667.0,Volume in litres,330667.0,Still_2to10L,330667.0,1.0729231704403523,0.8046923778302643
+Spain,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,90508677.67,74786690.422,Volume in litres,68456051.302,Still_2to10L,68456051.302,1.3221428339579924,0.9916071254684943
+Spain,2024,"Wine; still, in containers holding more than 10 litres",Export,552856474.541,,No Quantity,,Still_Bulk,,,
+Spain,2024,"Wine; still, in containers holding more than 10 litres",Import,30980717.518,53222907.704,Volume in litres,53114054.755,Still_Bulk,53114054.755,0.5832866208559151,0.4374649656419363
+Spain,2024,"Wine; still, in containers holding more than 10 litres",Re-Export,23863.215,22659.3,Volume in litres,22659.3,Still_Bulk,22659.3,1.053131164687347,0.7898483735155102
+Spain,2023,Wine; sparkling,Export,536888926.842,182374632.869,Volume in litres,167992672.202,Sparkling,167992672.202,3.1959068202476524,2.3969301151857394
+Spain,2023,Wine; sparkling,Import,166332566.574,9598743.684,Volume in litres,9062205.367,Sparkling,9062205.367,18.35453510904748,13.76590133178561
+Spain,2023,"Wine; still, in containers holding 2 litres or less",Export,1934592393.203,645462514.546,Volume in litres,636964743.273,Still_Bottled,636964743.273,3.0372048274795063,2.2779036206096297
+Spain,2023,"Wine; still, in containers holding 2 litres or less",Re-Export,3218799.815,1501125.5,Volume in litres,1032857.5,Still_Bottled,1032857.5,3.1164026160433553,2.3373019620325164
+Spain,2023,"Wine; still, in containers holding 2 litres or less",Import,131590579.454,26155995.34,Volume in litres,25707567.541,Still_Bottled,25707567.541,5.118748759256639,3.839061569442479
+Spain,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,792675.884,334772.823,Volume in litres,304550.121,Still_2to10L,304550.121,2.6027764539945792,1.9520823404959344
+Spain,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,89612386.959,70603597.043,Volume in litres,64145773.0,Still_2to10L,64145773.0,1.3970115686188707,1.047758676464153
+Spain,2023,"Wine; still, in containers holding more than 10 litres",Export,556135024.421,1139287092.8,Volume in litres,1140346691.334,Still_Bulk,1140346691.334,0.48768942694999384,0.3657670702124954
+Spain,2023,"Wine; still, in containers holding more than 10 litres",Import,21205922.741,18368802.053,Volume in litres,18279898.895,Still_Bulk,18279898.895,1.1600678353204863,0.8700508764903647
+Spain,2022,Wine; sparkling,Export,527265874.783,187349441.628,Volume in litres,174650453.78,Sparkling,174650453.78,3.0189779835738366,2.2642334876803774
+Spain,2022,Wine; sparkling,Import,143443647.081,11752312.814,Volume in litres,10398690.92,Sparkling,10398690.92,13.794394716080282,10.345796037060211
+Spain,2022,"Wine; still, in containers holding 2 litres or less",Export,1971504036.317,711881340.391,Volume in litres,704067900.277,Still_Bottled,704067900.277,2.800161796243452,2.100121347182589
+Spain,2022,"Wine; still, in containers holding 2 litres or less",Import,125999528.295,30182263.407,Volume in litres,29037482.23,Still_Bottled,29037482.23,4.3392029411153255,3.2544022058364943
+Spain,2022,"Wine; still, in containers holding 2 litres or less",Re-Export,2276001.96,1682320.5,Volume in litres,1162217.5,Still_Bottled,1162217.5,1.9583270429158053,1.468745282186854
+Spain,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,77370105.116,64137842.848,Volume in litres,57141444.36,Still_2to10L,57141444.36,1.3540103156748415,1.0155077367561312
+Spain,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,996750.639,423310.208,Volume in litres,418036.67,Still_2to10L,418036.67,2.3843617331465206,1.7882712998598904
+Spain,2022,"Wine; still, in containers holding more than 10 litres",Export,562161644.96,1153535807.358,Volume in litres,1154205774.892,Still_Bulk,1154205774.892,0.48705495778047203,0.36529121833535405
+Spain,2022,"Wine; still, in containers holding more than 10 litres",Import,23625343.271,25262275.528,Volume in litres,24711675.502,Still_Bulk,24711675.502,0.9560397177070378,0.7170297882802783
+Spain,2022,"Wine; still, in containers holding more than 10 litres",Re-Export,133539.624,47529.0,Volume in litres,47529.0,Still_Bulk,47529.0,2.8096451429653477,2.107233857224011
+Spain,2021,Wine; sparkling,Re-Export,8267.0,4785.0,Volume in litres,4785.0,Sparkling,4785.0,1.7276907001044932,1.2957680250783699
+Spain,2021,Wine; sparkling,Export,559330373.336,177814248.667,Volume in litres,170270005.132,Sparkling,170270005.132,3.284961276076694,2.4637209570575207
+Spain,2021,Wine; sparkling,Import,138955598.411,13649635.441,Volume in litres,12290594.822,Sparkling,12290594.822,11.305848123987568,8.479386092990676
+Spain,2021,"Wine; still, in containers holding 2 litres or less",Export,2203524314.85,792560576.926,Volume in litres,784180257.96,Still_Bottled,784180257.96,2.809971677407873,2.1074787580559047
+Spain,2021,"Wine; still, in containers holding 2 litres or less",Re-Export,2119111.686,1523854.75,Volume in litres,1027937.25,Still_Bottled,1027937.25,2.0615185275171224,1.5461388956378417
+Spain,2021,"Wine; still, in containers holding 2 litres or less",Import,118673970.461,26546910.79,Volume in litres,24670319.022,Still_Bottled,24670319.022,4.810394642856921,3.607795982142691
+Spain,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,76736642.989,58398633.006,Volume in litres,51911071.476,Still_2to10L,51911071.476,1.4782326930870147,1.108674519815261
+Spain,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,641969.914,357028.778,Volume in litres,320737.218,Still_2to10L,320737.218,2.0015448098075104,1.5011586073556327
+Spain,2021,"Wine; still, in containers holding more than 10 litres",Import,23946454.041,,No Quantity,,Still_Bulk,,,
+Spain,2021,"Wine; still, in containers holding more than 10 litres",Export,565879615.483,1294873242.502,Volume in litres,1292177410.275,Still_Bulk,1292177410.275,0.4379271847528816,0.3284453885646612
+Spain,2021,"Wine; still, in containers holding more than 10 litres",Re-Export,150626.236,47520.0,Volume in litres,47520.0,Still_Bulk,47520.0,3.1697440235690237,2.377308017676768
+Spain,2020,Wine; sparkling,Re-Export,429.61,626.25,Volume in litres,626.25,Sparkling,626.25,0.6860039920159681,0.5145029940119761
+Spain,2020,Wine; sparkling,Export,462387071.432,182467542.938,Volume in litres,174532222.9,Sparkling,174532222.9,2.6492934298838864,1.9869700724129147
+Spain,2020,Wine; sparkling,Import,80211135.581,11402083.557,Volume in litres,10761621.77,Sparkling,10761621.77,7.453443105072072,5.590082328804054
+Spain,2020,"Wine; still, in containers holding 2 litres or less",Export,1935951707.152,738609986.222,No Quantity,,Still_Bottled,738609986.222,2.621074373844333,1.9658057803832496
+Spain,2020,"Wine; still, in containers holding 2 litres or less",Import,74962434.995,21731469.939,No Quantity,,Still_Bottled,21731469.939,3.4494875498720865,2.5871156624040648
+Spain,2020,"Wine; still, in containers holding 2 litres or less",Re-Export,2284133.326,1743112.5,Volume in litres,1172431.5,Still_Bottled,1172431.5,1.9482019427147768,1.4611514570360826
+Spain,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,71672860.822,,No Quantity,,Still_2to10L,,,
+Spain,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,918880.479,395828.066,Volume in litres,376684.086,Still_2to10L,376684.086,2.4393928842536767,1.8295446631902577
+Spain,2020,"Wine; still, in containers holding more than 10 litres",Import,33148583.876,64742064.283,No Quantity,,Still_Bulk,64742064.283,0.5120099929328971,0.38400749469967277
+Spain,2020,"Wine; still, in containers holding more than 10 litres",Export,528348801.906,1068076685.584,Volume in litres,1060625080.17,Still_Bulk,1060625080.17,0.49814850863352655,0.37361138147514494
+Spain,2020,"Wine; still, in containers holding more than 10 litres",Re-Export,575.1,1575.0,Volume in litres,1575.0,Still_Bulk,1575.0,0.36514285714285716,0.27385714285714285
+Spain,2019,Wine; sparkling,Import,123832755.58,13111856.284,Volume in litres,12782620.461,Sparkling,12782620.461,9.687587608332416,7.265690706249313
+Spain,2019,Wine; sparkling,Re-Export,906.775,187.5,Volume in litres,187.5,Sparkling,187.5,4.836133333333334,3.6271000000000004
+Spain,2019,Wine; sparkling,Export,506821160.274,,Volume in litres,180514647.255,Sparkling,180514647.255,2.807645628656662,2.1057342214924963
+Spain,2019,"Wine; still, in containers holding 2 litres or less",Import,94266200.412,25920381.2,Volume in litres,22526453.689,Still_Bottled,22526453.689,4.184688886827827,3.13851666512087
+Spain,2019,"Wine; still, in containers holding 2 litres or less",Re-Export,1504771.663,1208918.0,Volume in litres,813145.0,Still_Bottled,813145.0,1.8505576041173468,1.3879182030880102
+Spain,2019,"Wine; still, in containers holding 2 litres or less",Export,1917871640.691,753471341.567,Volume in litres,740053542.648,Still_Bottled,740053542.648,2.5915309233283663,1.9436481924962747
+Spain,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,56341613.47,43902575.45,Volume in litres,35608528.75,Still_2to10L,35608528.75,1.5822505295167524,1.1866878971375643
+Spain,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,1096275.728,,Volume in litres,499493.372,Still_2to10L,499493.372,2.1947753252669786,1.646081493950234
+Spain,2019,"Wine; still, in containers holding more than 10 litres",Re-Export,32403.204,23973.0,Volume in litres,16125.0,Still_Bulk,16125.0,2.009501023255814,1.5071257674418606
+Spain,2019,"Wine; still, in containers holding more than 10 litres",Export,531074642.011,1176279981.953,Volume in litres,1168057445.85,Still_Bulk,1168057445.85,0.45466483168088956,0.34099862376066714
+Spain,2019,"Wine; still, in containers holding more than 10 litres",Import,15128953.838,19868590.08,Volume in litres,18912378.91,Still_Bulk,18912378.91,0.7999498058914472,0.5999623544185854
+Argentina,2024,Wine; sparkling,Import,3512239.7,125960.45,Volume in litres,126234.6,Sparkling,126234.6,27.82311426502718,20.867335698770383
+Argentina,2024,Wine; sparkling,Export,12734855.98,3039558.38,Volume in litres,3039472.38,Sparkling,3039472.38,4.189824544482289,3.142368408361717
+Argentina,2024,"Wine; still, in containers holding 2 litres or less",Import,3901525.2,204635.24,Volume in litres,204684.48,Still_Bottled,204684.48,19.061167705533904,14.295875779150428
+Argentina,2024,"Wine; still, in containers holding 2 litres or less",Export,625002824.34,147142431.66,Volume in litres,147011717.35,Still_Bottled,147011717.35,4.2513810164669845,3.1885357623502384
+Argentina,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,38376.91,529.7,Volume in litres,530.0,Still_2to10L,530.0,72.4092641509434,54.306948113207554
+Argentina,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,264619.38,78002.92,Volume in litres,78003.0,Still_2to10L,78003.0,3.392425675935541,2.5443192569516557
+Argentina,2024,"Wine; still, in containers holding more than 10 litres",Import,2605075.41,5042245.0,Volume in litres,5044735.0,Still_Bulk,5044735.0,0.5163948968578131,0.38729617264335986
+Argentina,2024,"Wine; still, in containers holding more than 10 litres",Export,47931927.94,47281384.0,Volume in litres,47547291.4,Still_Bulk,47547291.4,1.0080895573370137,0.7560671680027602
+Argentina,2023,Wine; sparkling,Import,3819152.99,195211.39,Volume in litres,195714.25,Sparkling,195714.25,19.513923947796343,14.635442960847257
+Argentina,2023,Wine; sparkling,Export,16241291.86,3550209.97,Volume in litres,3546439.6,Sparkling,3546439.6,4.579604812669022,3.4347036095017662
+Argentina,2023,"Wine; still, in containers holding 2 litres or less",Import,2532131.6,148959.78,Volume in litres,149070.16,Still_Bottled,149070.16,16.986173490388687,12.739630117791515
+Argentina,2023,"Wine; still, in containers holding 2 litres or less",Export,614864848.02,145749131.9,Volume in litres,145681933.7,Still_Bottled,145681933.7,4.220597794138149,3.1654483456036115
+Argentina,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,1287916.52,342808.0,Volume in litres,342808.0,Still_2to10L,342808.0,3.756961681174302,2.8177212608807265
+Argentina,2023,"Wine; still, in containers holding more than 10 litres",Import,789367.2,726948.0,Volume in litres,732000.0,Still_Bulk,732000.0,1.0783704918032786,0.808777868852459
+Argentina,2023,"Wine; still, in containers holding more than 10 litres",Export,45037691.72,44245452.0,Volume in litres,44422604.0,Still_Bulk,44422604.0,1.0138462778994226,0.760384708424567
+Argentina,2022,Wine; sparkling,Import,4217886.68,229893.05,Volume in litres,229096.35,Sparkling,229096.35,18.41097285050591,13.808229637879432
+Argentina,2022,Wine; sparkling,Export,20550737.92,4801100.31,Volume in litres,4824005.93,Sparkling,4824005.93,4.260097980435112,3.1950734853263336
+Argentina,2022,"Wine; still, in containers holding 2 litres or less",Export,737242381.61,191294155.2,Volume in litres,191214158.9,Still_Bottled,191214158.9,3.8555846797702804,2.89168850982771
+Argentina,2022,"Wine; still, in containers holding 2 litres or less",Import,3022659.79,226442.23,Volume in litres,225221.05,Still_Bottled,225221.05,13.420858263470489,10.065643697602866
+Argentina,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,1800674.1,647512.35,Volume in litres,652236.0,Still_2to10L,652236.0,2.760770794620352,2.070578095965264
+Argentina,2022,"Wine; still, in containers holding more than 10 litres",Export,54174778.93,61859453.0,Volume in litres,62080625.0,Still_Bulk,62080625.0,0.8726519575149252,0.6544889681361938
+Argentina,2022,"Wine; still, in containers holding more than 10 litres",Import,491402.74,423793.3,Volume in litres,424412.5,Still_Bulk,424412.5,1.1578422878685242,0.8683817159013931
+Argentina,2021,Wine; sparkling,Import,3702574.43,165771.273,Volume in litres,165952.875,Sparkling,165952.875,22.310999011014424,16.73324925826082
+Argentina,2021,Wine; sparkling,Export,11791424.19,3218308.09,Volume in litres,3216905.47,Sparkling,3216905.47,3.6654556063159665,2.749091704736975
+Argentina,2021,"Wine; still, in containers holding 2 litres or less",Import,2449193.06,247664.628,Volume in litres,247581.06,Still_Bottled,247581.06,9.892489595124927,7.4193671963436945
+Argentina,2021,"Wine; still, in containers holding 2 litres or less",Export,753435411.09,200775508.96,Volume in litres,200591348.55,Still_Bottled,200591348.55,3.7560713188096266,2.81705348910722
+Argentina,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,2154.42,455.0,Volume in litres,120.0,Still_2to10L,120.0,17.953500000000002,13.465125
+Argentina,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,877089.35,411562.4,Volume in litres,411608.0,Still_2to10L,411608.0,2.130885089696993,1.5981638172727448
+Argentina,2021,"Wine; still, in containers holding more than 10 litres",Import,767171.55,728000.0,Volume in litres,728000.0,Still_Bulk,728000.0,1.0538070741758243,0.7903553056318682
+Argentina,2021,"Wine; still, in containers holding more than 10 litres",Export,61937423.79,84992807.9,Volume in litres,85406682.0,Still_Bulk,85406682.0,0.7252058309676519,0.5439043732257389
+Argentina,2020,Wine; sparkling,Import,3122087.26,107758.1,Volume in litres,107997.2,Sparkling,107997.2,28.908964862051977,21.681723646538984
+Argentina,2020,Wine; sparkling,Export,11527410.5,2906660.14,Volume in litres,2876887.3,Sparkling,2876887.3,4.0069037462816155,3.0051778097112116
+Argentina,2020,"Wine; still, in containers holding 2 litres or less",Import,1710522.59,186076.94,Volume in litres,189707.05,Still_Bottled,189707.05,9.016652728509564,6.762489546382174
+Argentina,2020,"Wine; still, in containers holding 2 litres or less",Export,678811498.05,194284562.85,Volume in litres,194253939.3,Still_Bottled,194253939.3,3.494454220573945,2.6208406654304586
+Argentina,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,190.06,28.0,Volume in litres,28.0,Still_2to10L,28.0,6.787857142857143,5.090892857142857
+Argentina,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,1319600.97,574351.5,Volume in litres,574461.0,Still_2to10L,574461.0,2.297111501041846,1.7228336257813845
+Argentina,2020,"Wine; still, in containers holding more than 10 litres",Import,57987.5,52660.0,Volume in litres,52660.0,Still_Bulk,52660.0,1.1011678693505507,0.8258759020129129
+Argentina,2020,"Wine; still, in containers holding more than 10 litres",Export,84102489.29,186504874.4,Volume in litres,187857410.0,Still_Bulk,187857410.0,0.4476932226948088,0.3357699170211066
+Argentina,2019,Wine; sparkling,Import,2750255.92,109649.33,Volume in litres,109643.55,Sparkling,109643.55,25.08360883973567,18.812706629801752
+Argentina,2019,Wine; sparkling,Export,14764848.4,3132654.19,Volume in litres,3132652.9,Sparkling,3132652.9,4.713209178073958,3.5349068835554687
+Argentina,2019,"Wine; still, in containers holding 2 litres or less",Import,1777128.26,173817.84,Volume in litres,173924.8,Still_Bottled,173924.8,10.217796771938218,7.663347578953664
+Argentina,2019,"Wine; still, in containers holding 2 litres or less",Export,710342625.0,184202268.84,Volume in litres,184161010.5,Still_Bottled,184161010.5,3.8571824897757065,2.89288686733178
+Argentina,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,1924699.69,666425.11,Volume in litres,666605.0,Still_2to10L,666605.0,2.88731661178659,2.1654874588399426
+Argentina,2019,"Wine; still, in containers holding more than 10 litres",Import,30208.29,27900.0,Volume in litres,27900.0,Still_Bulk,27900.0,1.0827344086021506,0.812050806451613
+Argentina,2019,"Wine; still, in containers holding more than 10 litres",Export,65799756.64,112314242.0,Volume in litres,112999870.0,Still_Bulk,112999870.0,0.5822994012293996,0.4367245509220497
+Australia,2024,Wine; sparkling,Export,57889298.555,12065321.27,Volume in litres,12065321.27,Sparkling,12065321.27,4.797990642730726,3.5984929820480445
+Australia,2024,Wine; sparkling,Import,223656459.897,15802078.856,Volume in litres,15802640.428,Sparkling,15802640.428,14.153106939060198,10.61483020429515
+Australia,2024,"Wine; still, in containers holding 2 litres or less",Export,1357700570.807,225920942.282,Volume in litres,225918745.202,Still_Bottled,225918745.202,6.00968533882854,4.507264004121405
+Australia,2024,"Wine; still, in containers holding 2 litres or less",Import,294749625.892,42018622.034,Volume in litres,42018547.576,Still_Bottled,42018547.576,7.014750458922432,5.261062844191824
+Australia,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,17217773.166,19044784.777,Volume in litres,19044784.777,Still_2to10L,19044784.777,0.9040676157597516,0.6780507118198137
+Australia,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,74565.941,7606.56,Volume in litres,7606.56,Still_2to10L,7606.56,9.802846621863234,7.352134966397426
+Australia,2024,"Wine; still, in containers holding more than 10 litres",Export,324960735.334,,No Quantity,,Still_Bulk,,,
+Australia,2024,"Wine; still, in containers holding more than 10 litres",Import,112799312.106,40331370.777,Volume in litres,40331370.456,Still_Bulk,40331370.456,2.796813270430763,2.0976099528230723
+Australia,2023,Wine; sparkling,Export,56834077.034,11208767.25,Volume in litres,11208767.25,Sparkling,11208767.25,5.070502024564744,3.8028765184235582
+Australia,2023,Wine; sparkling,Import,254736778.103,15783800.183,Volume in litres,15783841.882,Sparkling,15783841.882,16.13908578199225,12.104314336494188
+Australia,2023,"Wine; still, in containers holding 2 litres or less",Export,975492736.502,193369715.9,Volume in litres,193369715.9,Still_Bottled,193369715.9,5.0447027444900945,3.7835270583675706
+Australia,2023,"Wine; still, in containers holding 2 litres or less",Import,289609506.39,40407394.6,Volume in litres,40407339.158,Still_Bottled,40407339.158,7.1672501190334374,5.375437589275078
+Australia,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,25370921.248,28107003.882,Volume in litres,28107003.882,Still_2to10L,28107003.882,0.9026547743940715,0.6769910807955536
+Australia,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,164805.932,24958.417,Volume in litres,24754.86,Still_2to10L,24754.86,6.657518240862602,4.993138680646952
+Australia,2023,"Wine; still, in containers holding more than 10 litres",Export,301100438.486,392033605.9,Volume in litres,392033605.9,Still_Bulk,392033605.9,0.7680475192802853,0.576035639460214
+Australia,2023,"Wine; still, in containers holding more than 10 litres",Import,133805109.491,42576542.864,Volume in litres,42576542.592,Still_Bulk,42576542.592,3.142695516007952,2.357021637005964
+Australia,2022,Wine; sparkling,Export,61542042.157,12224103.28,Volume in litres,12224103.28,Sparkling,12224103.28,5.034483163905336,3.7758623729290024
+Australia,2022,Wine; sparkling,Import,266691230.539,20504631.653,Volume in litres,20504673.446,Sparkling,20504673.446,13.006363219650567,9.754772414737925
+Australia,2022,"Wine; still, in containers holding 2 litres or less",Export,1044521316.382,223784302.11,Volume in litres,223784302.11,Still_Bottled,223784302.11,4.667536134275276,3.500652100706457
+Australia,2022,"Wine; still, in containers holding 2 litres or less",Import,360149605.846,52807602.527,Volume in litres,52807579.503,Still_Bottled,52807579.503,6.820036237895356,5.115027178421517
+Australia,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,29548285.45,31541749.893,Volume in litres,31541749.893,Still_2to10L,31541749.893,0.9367991804588367,0.7025993853441275
+Australia,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,248863.144,46075.33,Volume in litres,46075.33,Still_2to10L,46075.33,5.401223257652196,4.050917443239147
+Australia,2022,"Wine; still, in containers holding more than 10 litres",Export,318648656.886,375551424.44,Volume in litres,375551424.44,Still_Bulk,375551424.44,0.8484820883349063,0.6363615662511798
+Australia,2022,"Wine; still, in containers holding more than 10 litres",Import,149656990.819,48620707.98,Volume in litres,48620707.98,Still_Bulk,48620707.98,3.0780504241230098,2.3085378180922573
+Australia,2021,Wine; sparkling,Export,57777390.311,11713380.44,Volume in litres,11713380.44,Sparkling,11713380.44,4.932597434784591,3.6994480760884434
+Australia,2021,Wine; sparkling,Import,275237690.768,19881930.555,Volume in litres,19881924.792,Sparkling,19881924.792,13.843613918042227,10.38271043853167
+Australia,2021,"Wine; still, in containers holding 2 litres or less",Export,1154114745.658,243516175.41,Volume in litres,243516175.41,Still_Bottled,243516175.41,4.7393761162471275,3.5545320871853456
+Australia,2021,"Wine; still, in containers holding 2 litres or less",Import,357402435.434,52464514.551,Volume in litres,52464504.866,Still_Bottled,52464504.866,6.812271198343421,5.109203398757566
+Australia,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,29686958.85,,No Quantity,,Still_2to10L,,,
+Australia,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,158263.739,27549.0,Volume in litres,27549.0,Still_2to10L,27549.0,5.744808849686014,4.308606637264511
+Australia,2021,"Wine; still, in containers holding more than 10 litres",Export,363139077.614,,No Quantity,,Still_Bulk,,,
+Australia,2021,"Wine; still, in containers holding more than 10 litres",Import,124643424.4,44122789.322,Volume in litres,44122788.483,Still_Bulk,44122788.483,2.8249217396589446,2.1186913047442086
+Australia,2020,Wine; sparkling,Export,35760243.516,7885970.78,Volume in litres,7885970.78,Sparkling,7885970.78,4.534665992764432,3.400999494573324
+Australia,2020,Wine; sparkling,Import,191497919.075,16918285.802,Volume in litres,16918282.679,Sparkling,16918282.679,11.318992755257531,8.489244566443148
+Australia,2020,"Wine; still, in containers holding 2 litres or less",Export,1564695687.695,326451683.66,Volume in litres,326451683.66,Still_Bottled,326451683.66,4.793039111186307,3.59477933338973
+Australia,2020,"Wine; still, in containers holding 2 litres or less",Import,316516984.134,57901439.936,Volume in litres,57901440.083,Still_Bottled,57901440.083,5.466478617462403,4.0998589630968025
+Australia,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,44996232.675,42064216.13,Volume in litres,42064216.13,Still_2to10L,42064216.13,1.0697033444279231,0.8022775083209424
+Australia,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,179882.352,83284.5,Volume in litres,83284.5,Still_2to10L,83284.5,2.1598538983844535,1.6198904237883403
+Australia,2020,"Wine; still, in containers holding more than 10 litres",Export,389514361.956,387390182.76,Volume in litres,387390182.76,Still_Bulk,387390182.76,1.005483306729319,0.7541124800469892
+Australia,2020,"Wine; still, in containers holding more than 10 litres",Import,111587312.179,46378113.75,Volume in litres,46378113.75,Still_Bulk,46378113.75,2.406033862879988,1.804525397159991
+Australia,2019,Wine; sparkling,Export,43068836.105,10048668.13,Volume in litres,10048668.13,Sparkling,10048668.13,4.286024331564823,3.2145182486736172
+Australia,2019,Wine; sparkling,Import,213363830.801,18254820.11,Volume in litres,18254847.237,Sparkling,18254847.237,11.688064437402774,8.766048328052081
+Australia,2019,"Wine; still, in containers holding 2 litres or less",Export,1635650553.586,352414797.67,Volume in litres,352414797.67,Still_Bottled,352414797.67,4.641265248792468,3.480948936594351
+Australia,2019,"Wine; still, in containers holding 2 litres or less",Import,329676386.797,60294415.905,Volume in litres,60294415.84,Still_Bottled,60294415.84,5.467776446691916,4.1008323350189375
+Australia,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,36376720.021,37470158.57,Volume in litres,37470158.57,Still_2to10L,37470158.57,0.9708184168220881,0.728113812616566
+Australia,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,107356.478,13546.985,Volume in litres,13567.728,Still_2to10L,13567.728,7.912634893624047,5.934476170218035
+Australia,2019,"Wine; still, in containers holding more than 10 litres",Export,334511530.705,347755280.7,Volume in litres,347755280.7,Still_Bulk,347755280.7,0.9619164661760375,0.7214373496320281
+Australia,2019,"Wine; still, in containers holding more than 10 litres",Import,60047219.297,23831380.396,Volume in litres,23831380.378,Still_Bulk,23831380.378,2.5196702140020704,1.8897526605015527
+Chile,2024,Wine; sparkling,Export,16845320.408,4368713.543,Volume in litres,4368538.65,Sparkling,4368538.65,3.856053879253191,2.8920404094398933
+Chile,2024,Wine; sparkling,Import,7397770.565,1911906.92,Volume in litres,1911906.92,Sparkling,1911906.92,3.8693152305761833,2.9019864229321373
+Chile,2024,"Wine; still, in containers holding 2 litres or less",Export,1320573282.5,425006478.251,Volume in litres,425006478.251,Still_Bottled,425006478.251,3.107183890312601,2.3303879177344506
+Chile,2024,"Wine; still, in containers holding 2 litres or less",Import,3531211.805,2813114.178,Volume in litres,2813114.178,Still_Bottled,2813114.178,1.2552678567460551,0.9414508925595413
+Chile,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,33149811.4,18287627.0,Volume in litres,18287627.0,Still_2to10L,18287627.0,1.8126907006578818,1.3595180254934114
+Chile,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,80753.441,43515.0,Volume in litres,43515.0,Still_2to10L,43515.0,1.855761024933931,1.3918207687004482
+Chile,2024,"Wine; still, in containers holding more than 10 litres",Export,248901709.54,332141381.0,Volume in litres,332141381.0,Still_Bulk,332141381.0,0.7493848215799404,0.5620386161849553
+Chile,2024,"Wine; still, in containers holding more than 10 litres",Import,108379.198,2917957.2,Volume in litres,2917957.2,Still_Bulk,2917957.2,0.03714214793829053,0.027856610953717897
+Chile,2023,Wine; sparkling,Export,14531029.357,,No Quantity,,Sparkling,,,
+Chile,2023,Wine; sparkling,Import,7810535.455,1209973.63,Volume in litres,1209973.63,Sparkling,1209973.63,6.455128658465061,4.841346493848796
+Chile,2023,"Wine; still, in containers holding 2 litres or less",Export,1238065566.327,,No Quantity,,Still_Bottled,,,
+Chile,2023,"Wine; still, in containers holding 2 litres or less",Import,2661666.658,542753.413,Volume in litres,542753.413,Still_Bottled,542753.413,4.904007223626616,3.678005417719962
+Chile,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,28541634.49,,No Quantity,,Still_2to10L,,,
+Chile,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,69978.981,10336.0,Volume in litres,10336.0,Still_2to10L,10336.0,6.770412248452012,5.077809186339009
+Chile,2023,"Wine; still, in containers holding more than 10 litres",Export,245097537.18,,No Quantity,,Still_Bulk,,,
+Chile,2023,"Wine; still, in containers holding more than 10 litres",Import,82721.898,,No Quantity,,Still_Bulk,,,
+Chile,2022,Wine; sparkling,Export,15525502.217,3928189.927,Volume in litres,3928189.927,Sparkling,3928189.927,3.9523298276101912,2.9642473707076435
+Chile,2022,Wine; sparkling,Import,13515169.235,2973078.3,Volume in litres,2973078.3,Sparkling,2973078.3,4.545850418739392,3.4093878140545444
+Chile,2022,"Wine; still, in containers holding 2 litres or less",Export,1560371988.21,484001415.003,Volume in litres,484001415.003,Still_Bottled,484001415.003,3.223899641285818,2.4179247309643634
+Chile,2022,"Wine; still, in containers holding 2 litres or less",Import,3997259.771,777505.68,Volume in litres,777505.68,Still_Bottled,777505.68,5.141132565102289,3.855849423826717
+Chile,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,32859637.14,18334585.25,Volume in litres,18334585.25,Still_2to10L,18334585.25,1.7922214597136852,1.3441660947852638
+Chile,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,562.05,23.5,Volume in litres,23.5,Still_2to10L,23.5,23.917021276595744,17.937765957446807
+Chile,2022,"Wine; still, in containers holding more than 10 litres",Import,62669.678,,No Quantity,,Still_Bulk,,,
+Chile,2022,"Wine; still, in containers holding more than 10 litres",Export,302133593.45,325509291.5,Volume in litres,325509291.5,Still_Bulk,325509291.5,0.9281873093628726,0.6961404820221545
+Chile,2021,Wine; sparkling,Import,18043719.863,6889230.63,Volume in litres,6889230.63,Sparkling,6889230.63,2.619119729339066,1.9643397970042995
+Chile,2021,Wine; sparkling,Export,14760373.1,3581965.0,Volume in litres,3581965.0,Sparkling,3581965.0,4.12074743890574,3.090560579179305
+Chile,2021,"Wine; still, in containers holding 2 litres or less",Export,1601639841.0,488530489.0,Volume in litres,488530489.0,Still_Bottled,488530489.0,3.278484919699659,2.458863689774744
+Chile,2021,"Wine; still, in containers holding 2 litres or less",Import,4567062.032,1643669.138,Volume in litres,1643669.138,Still_Bottled,1643669.138,2.7785774681863007,2.0839331011397255
+Chile,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,247.93,1503.0,Volume in litres,1503.0,Still_2to10L,1503.0,0.16495675316034597,0.12371756487025948
+Chile,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,40268084.0,21014182.0,Volume in litres,21014182.0,Still_2to10L,21014182.0,1.916233713022948,1.437175284767211
+Chile,2021,"Wine; still, in containers holding more than 10 litres",Import,259398.111,,No Quantity,,Still_Bulk,,,
+Chile,2021,"Wine; still, in containers holding more than 10 litres",Export,312870788.0,353393066.0,Volume in litres,353393066.0,Still_Bulk,353393066.0,0.8853336924273438,0.6640002693205078
+Chile,2020,Wine; sparkling,Import,9596903.001,2237248.38,Volume in litres,2237248.38,Sparkling,2237248.38,4.289601050465394,3.2172007878490456
+Chile,2020,Wine; sparkling,Export,15382616.909,3475703.5,Volume in litres,3475703.5,Sparkling,3475703.5,4.425756371048336,3.3193172782862517
+Chile,2020,"Wine; still, in containers holding 2 litres or less",Import,3799943.096,1242419.081,Volume in litres,1242419.081,Still_Bottled,1242419.081,3.058503490578635,2.293877617933976
+Chile,2020,"Wine; still, in containers holding 2 litres or less",Export,1473353229.504,483542636.332,Volume in litres,483542589.662,Still_Bottled,483542589.662,3.0469978467333876,2.285248385050041
+Chile,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,571.11,2776.0,Volume in litres,2776.0,Still_2to10L,2776.0,0.20573126801152739,0.15429845100864553
+Chile,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,41438203.608,22384136.5,Volume in litres,22384136.5,Still_2to10L,22384136.5,1.8512308307269303,1.3884231230451978
+Chile,2020,"Wine; still, in containers holding more than 10 litres",Import,275568.969,278704.05,Volume in litres,278704.05,Still_Bulk,278704.05,0.9887512183622735,0.7415634137717051
+Chile,2020,"Wine; still, in containers holding more than 10 litres",Export,287215133.192,339854882.32,Volume in litres,339854882.32,Still_Bulk,339854882.32,0.8451110992766743,0.6338333244575057
+Chile,2019,Wine; sparkling,Export,19745538.155,4608430.248,Volume in litres,4608430.0,Sparkling,4608430.0,4.284656196361885,3.2134921472714137
+Chile,2019,Wine; sparkling,Import,8736326.099,1750096.15,Volume in litres,1750096.15,Sparkling,1750096.15,4.991912072373852,3.743934054280389
+Chile,2019,"Wine; still, in containers holding 2 litres or less",Export,1532124283.288,484936085.926,Volume in litres,484935570.6,Still_Bottled,484935570.6,3.1594388536859377,2.3695791402644533
+Chile,2019,"Wine; still, in containers holding 2 litres or less",Import,3462258.682,808056.761,Volume in litres,808056.761,Still_Bottled,808056.761,4.284672623387653,3.21350446754074
+Chile,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,33791733.61,17990388.9,Volume in litres,17990388.9,Still_2to10L,17990388.9,1.8783214636343966,1.4087410977257975
+Chile,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,54.74,525.0,Volume in litres,525.0,Still_2to10L,525.0,0.10426666666666667,0.0782
+Chile,2019,"Wine; still, in containers holding more than 10 litres",Import,139377.385,,No Quantity,,Still_Bulk,,,
+Chile,2019,"Wine; still, in containers holding more than 10 litres",Export,336475799.62,360539095.083,Volume in litres,360509545.25,Still_Bulk,360509545.25,0.9333339548240436,0.7000004661180327
+New Zealand,2024,Wine; sparkling,Re-Export,1319021.352,88544.0,Volume in litres,88544.0,Sparkling,88544.0,14.896789754246475,11.172592315684856
+New Zealand,2024,Wine; sparkling,Export,9703678.464,1010825.0,Volume in litres,1010825.0,Sparkling,1010825.0,9.599761050626963,7.199820787970222
+New Zealand,2024,Wine; sparkling,Import,52861672.424,6423620.0,Volume in litres,6423620.0,Sparkling,6423620.0,8.229265184428717,6.171948888321538
+New Zealand,2024,"Wine; still, in containers holding 2 litres or less",Re-Export,5682800.049,612908.05,Volume in litres,612908.017,Still_Bottled,612908.017,9.271864441936318,6.953898331452239
+New Zealand,2024,"Wine; still, in containers holding 2 litres or less",Export,826287383.916,130294063.263,Volume in litres,130294063.17,Still_Bottled,130294063.17,6.341711692864386,4.75628376964829
+New Zealand,2024,"Wine; still, in containers holding 2 litres or less",Import,78831725.091,18213214.092,Volume in litres,18213214.092,Still_Bottled,18213214.092,4.328270929710653,3.24620319728299
+New Zealand,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,20437.469,2114.0,Volume in litres,2114.0,Still_2to10L,2114.0,9.667676915799433,7.250757686849575
+New Zealand,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,1224255.747,379719.0,Volume in litres,379719.0,Still_2to10L,379719.0,3.2241097943479256,2.4180823457609444
+New Zealand,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,900773.754,1297847.328,Volume in litres,1297847.328,Still_2to10L,1297847.328,0.6940521697479659,0.5205391273109744
+New Zealand,2024,"Wine; still, in containers holding more than 10 litres",Re-Export,294646.576,37290.328,Volume in litres,37290.328,Still_Bulk,37290.328,7.901420872457866,5.926065654343399
+New Zealand,2024,"Wine; still, in containers holding more than 10 litres",Export,377882478.864,134849390.328,Volume in litres,134849390.328,Still_Bulk,134849390.328,2.802255745798035,2.101691809348526
+New Zealand,2024,"Wine; still, in containers holding more than 10 litres",Import,12809891.046,12540973.578,Volume in litres,12540973.578,Still_Bulk,12540973.578,1.0214431093668637,0.7660823320251477
+New Zealand,2023,Wine; sparkling,Re-Export,1492118.782,61702.0,Volume in litres,61702.0,Sparkling,61702.0,24.182664775858154,18.136998581893614
+New Zealand,2023,Wine; sparkling,Export,12345554.024,1461282.0,Volume in litres,1461282.0,Sparkling,1461282.0,8.448440495400614,6.336330371550461
+New Zealand,2023,Wine; sparkling,Import,55064580.653,6542118.0,Volume in litres,6542118.0,Sparkling,6542118.0,8.416934798944316,6.312701099208237
+New Zealand,2023,"Wine; still, in containers holding 2 litres or less",Re-Export,4402174.62,423518.151,Volume in litres,423518.151,Still_Bottled,423518.151,10.394299771109456,7.795724828332092
+New Zealand,2023,"Wine; still, in containers holding 2 litres or less",Export,952293283.013,153750885.511,Volume in litres,153750885.512,Still_Bottled,153750885.512,6.193741778083451,4.645306333562589
+New Zealand,2023,"Wine; still, in containers holding 2 litres or less",Import,83002702.755,18707171.28,Volume in litres,18707171.28,Still_Bottled,18707171.28,4.436945677818159,3.327709258363619
+New Zealand,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,8791.272,3207.877,Volume in litres,3207.877,Still_2to10L,3207.877,2.7405265226815123,2.055394892011134
+New Zealand,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,9945076.915,3036915.195,Volume in litres,3036915.195,Still_2to10L,3036915.195,3.2747298743717472,2.4560474057788104
+New Zealand,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,2775079.482,2775964.895,Volume in litres,2775964.895,Still_2to10L,2775964.895,0.9996810431567075,0.7497607823675306
+New Zealand,2023,"Wine; still, in containers holding more than 10 litres",Re-Export,8822.59,251.0,Volume in litres,251.0,Still_Bulk,251.0,35.1497609561753,26.362320717131475
+New Zealand,2023,"Wine; still, in containers holding more than 10 litres",Export,319044480.594,110865406.0,Volume in litres,110865406.0,Still_Bulk,110865406.0,2.877764057383238,2.1583230430374285
+New Zealand,2023,"Wine; still, in containers holding more than 10 litres",Import,13172410.704,12325519.0,Volume in litres,12325519.0,Still_Bulk,12325519.0,1.0687104294756269,0.8015328221067202
+New Zealand,2022,Wine; sparkling,Export,14964788.92,2053968.0,Volume in litres,2053968.0,Sparkling,2053968.0,7.285794579078155,5.464345934308616
+New Zealand,2022,Wine; sparkling,Re-Export,1177950.55,46397.0,Volume in litres,46397.0,Sparkling,46397.0,25.38850680000862,19.041380100006464
+New Zealand,2022,Wine; sparkling,Import,54974164.996,5929894.0,Volume in litres,5929894.0,Sparkling,5929894.0,9.270682578137148,6.953011933602861
+New Zealand,2022,"Wine; still, in containers holding 2 litres or less",Export,1035586067.763,169285158.341,Volume in litres,169285158.335,Still_Bottled,169285158.335,6.117406144451653,4.58805460833874
+New Zealand,2022,"Wine; still, in containers holding 2 litres or less",Re-Export,12471277.315,460465.503,Volume in litres,460465.502,Still_Bottled,460465.502,27.084064410540794,20.313048307905596
+New Zealand,2022,"Wine; still, in containers holding 2 litres or less",Import,91622936.242,21103932.385,Volume in litres,21103930.924,Still_Bottled,21103930.924,4.34151043101661,3.256132823262458
+New Zealand,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,12069585.909,3843429.0,Volume in litres,3843429.0,Still_2to10L,3843429.0,3.1403171254106685,2.3552378440580015
+New Zealand,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,48276.568,3805.0,Volume in litres,3805.0,Still_2to10L,3805.0,12.687665703022338,9.515749277266753
+New Zealand,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,2316224.672,2602090.308,Volume in litres,2602090.308,Still_2to10L,2602090.308,0.8901400020125665,0.6676050015094248
+New Zealand,2022,"Wine; still, in containers holding more than 10 litres",Export,359546296.956,120497240.732,Volume in litres,120497240.732,Still_Bulk,120497240.732,2.9838550225035703,2.2378912668776776
+New Zealand,2022,"Wine; still, in containers holding more than 10 litres",Re-Export,465967.383,216095.0,Volume in litres,216095.0,Still_Bulk,216095.0,2.1563080265623915,1.6172310199217936
+New Zealand,2022,"Wine; still, in containers holding more than 10 litres",Import,16810569.876,15127341.388,Volume in litres,15127341.388,Still_Bulk,15127341.388,1.1112706089475342,0.8334529567106506
+New Zealand,2021,Wine; sparkling,Export,12147858.205,1446496.0,Volume in litres,1446496.0,Sparkling,1446496.0,8.3981277549333,6.298595816199976
+New Zealand,2021,Wine; sparkling,Import,68874083.043,7159721.0,Volume in litres,7159721.0,Sparkling,7159721.0,9.619660185501642,7.214745139126231
+New Zealand,2021,Wine; sparkling,Re-Export,494753.853,25525.0,Volume in litres,25525.0,Sparkling,25525.0,19.383108834476005,14.537331625857004
+New Zealand,2021,"Wine; still, in containers holding 2 litres or less",Import,97905792.503,,No Quantity,,Still_Bottled,,,
+New Zealand,2021,"Wine; still, in containers holding 2 litres or less",Re-Export,6861181.186,702076.363,Volume in litres,702076.363,Still_Bottled,702076.363,9.772699306784666,7.3295244800885
+New Zealand,2021,"Wine; still, in containers holding 2 litres or less",Export,1029200077.886,163430809.212,Volume in litres,163430809.212,Still_Bottled,163430809.212,6.297466694611645,4.723100020958734
+New Zealand,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,44503.466,4545.0,Volume in litres,4545.0,Still_2to10L,4545.0,9.791741694169417,7.343806270627063
+New Zealand,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,7692785.37,2513313.0,Volume in litres,2513313.0,Still_2to10L,2513313.0,3.060814697572487,2.295611023179365
+New Zealand,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,2101057.425,2383860.787,Volume in litres,2383860.787,Still_2to10L,2383860.787,0.8813675011803447,0.6610256258852585
+New Zealand,2021,"Wine; still, in containers holding more than 10 litres",Export,338338803.979,114156245.0,Volume in litres,114156245.0,Still_Bulk,114156245.0,2.9638221192279053,2.2228665894209287
+New Zealand,2021,"Wine; still, in containers holding more than 10 litres",Import,14864708.527,13593248.327,Volume in litres,13593248.327,Still_Bulk,13593248.327,1.0935361562897754,0.8201521172173316
+New Zealand,2021,"Wine; still, in containers holding more than 10 litres",Re-Export,776319.844,216005.0,Volume in litres,216005.0,Still_Bulk,216005.0,3.59399015763524,2.6954926182264303
+New Zealand,2020,Wine; sparkling,Import,40539109.173,4894989.0,Volume in litres,4894989.0,Sparkling,4894989.0,8.2817569504242,6.21131771281815
+New Zealand,2020,Wine; sparkling,Export,18703923.474,2889108.0,Volume in litres,2889108.0,Sparkling,2889108.0,6.473944024937801,4.8554580187033505
+New Zealand,2020,Wine; sparkling,Re-Export,713905.55,17082.0,Volume in litres,17082.0,Sparkling,17082.0,41.79285505210163,31.344641289076222
+New Zealand,2020,"Wine; still, in containers holding 2 litres or less",Export,917931767.737,163022727.825,Volume in litres,163022727.825,Still_Bottled,163022727.825,5.630698124020917,4.223023593015688
+New Zealand,2020,"Wine; still, in containers holding 2 litres or less",Re-Export,5844703.033,784626.972,Volume in litres,784626.972,Still_Bottled,784626.972,7.449021307669245,5.586765980751934
+New Zealand,2020,"Wine; still, in containers holding 2 litres or less",Import,84004605.703,21506394.583,Volume in litres,21506394.583,Still_Bottled,21506394.583,3.906029222090182,2.9295219165676363
+New Zealand,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,62843.278,49901.91,Volume in litres,49901.91,Still_2to10L,49901.91,1.2593361256112239,0.9445020942084179
+New Zealand,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,2625324.815,3082389.474,Volume in litres,3082389.474,Still_2to10L,3082389.474,0.851717421547359,0.6387880661605192
+New Zealand,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,7148334.005,2783062.91,Volume in litres,2783062.91,Still_2to10L,2783062.91,2.568513266198499,1.9263849496488743
+New Zealand,2020,"Wine; still, in containers holding more than 10 litres",Import,17512143.005,17826369.286,Volume in litres,17826369.286,Still_Bulk,17826369.286,0.982372951218576,0.736779713413932
+New Zealand,2020,"Wine; still, in containers holding more than 10 litres",Export,347586933.322,134915787.803,Volume in litres,134915787.803,Still_Bulk,134915787.803,2.576325120893457,1.9322438406700928
+New Zealand,2020,"Wine; still, in containers holding more than 10 litres",Re-Export,631117.501,234943.513,Volume in litres,234943.513,Still_Bulk,234943.513,2.6862520822185885,2.0146890616639412
+New Zealand,2019,Wine; sparkling,Re-Export,604031.99,49652.0,Volume in litres,49652.0,Sparkling,49652.0,12.16531036010634,9.123982770079754
+New Zealand,2019,Wine; sparkling,Export,7125928.515,1065714.0,Volume in litres,1065714.0,Sparkling,1065714.0,6.686529889820346,5.014897417365259
+New Zealand,2019,Wine; sparkling,Import,44720858.62,5034705.0,Volume in litres,5034705.0,Sparkling,5034705.0,8.882518165413861,6.661888624060396
+New Zealand,2019,"Wine; still, in containers holding 2 litres or less",Re-Export,11421741.87,1358693.409,Volume in litres,1358693.409,Still_Bottled,1358693.409,8.406415895110888,6.304811921333165
+New Zealand,2019,"Wine; still, in containers holding 2 litres or less",Export,943430533.339,168188569.191,Volume in litres,168188569.191,Still_Bottled,168188569.191,5.609361788836028,4.207021341627021
+New Zealand,2019,"Wine; still, in containers holding 2 litres or less",Import,73118711.466,18079275.098,Volume in litres,18079257.686,Still_Bottled,18079257.686,4.044342568479501,3.033256926359626
+New Zealand,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,9255.482,2408.651,Volume in litres,2408.651,Still_2to10L,2408.651,3.8425998619144077,2.8819498964358057
+New Zealand,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,5738555.578,1672524.651,Volume in litres,1672524.651,Still_2to10L,1672524.651,3.4310738407167425,2.573305380537557
+New Zealand,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,2275352.377,2437906.648,Volume in litres,2437906.648,Still_2to10L,2437906.648,0.9333221921629543,0.6999916441222157
+New Zealand,2019,"Wine; still, in containers holding more than 10 litres",Re-Export,22294.298,43441.0,Volume in litres,43441.0,Still_Bulk,43441.0,0.5132086738334752,0.3849065053751064
+New Zealand,2019,"Wine; still, in containers holding more than 10 litres",Export,273603664.145,107950148.0,Volume in litres,107950148.0,Still_Bulk,107950148.0,2.5345371841917252,1.900902888143794
+New Zealand,2019,"Wine; still, in containers holding more than 10 litres",Import,17636403.384,16969439.247,Volume in litres,16969439.247,Still_Bulk,16969439.247,1.0393038407039825,0.7794778805279869
+South Africa,2024,Wine; sparkling,Import,42709557.869,,No Quantity,,Sparkling,,,
+South Africa,2024,Wine; sparkling,Export,32682247.707,6628486.25,Volume in litres,6367614.126,Sparkling,6367614.126,5.132573529157976,3.8494301468684817
+South Africa,2024,"Wine; still, in containers holding 2 litres or less",Re-Export,399046.357,82575.215,Volume in litres,81132.083,Still_Bottled,81132.083,4.918477897331935,3.688858422998951
+South Africa,2024,"Wine; still, in containers holding 2 litres or less",Export,442740187.72,91616839.854,Volume in litres,90015690.993,Still_Bottled,90015690.993,4.918477910194895,3.688858432646171
+South Africa,2024,"Wine; still, in containers holding 2 litres or less",Import,10387922.456,,Volume in litres,2275447.932,Still_Bottled,2275447.932,4.565220899987616,3.4239156749907123
+South Africa,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,828.443,430.755,Volume in litres,423.14,Still_2to10L,423.14,1.957846102944652,1.468384577208489
+South Africa,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,91313.33,,Volume in litres,44924.115,Still_2to10L,44924.115,2.0326127737853046,1.5244595803389784
+South Africa,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,31811518.338,16540645.298,Volume in litres,16248216.768,Still_2to10L,16248216.768,1.95784674664429,1.4683850599832176
+South Africa,2024,"Wine; still, in containers holding more than 10 litres",Import,2961373.403,,Volume in litres,2674676.438,Still_Bulk,2674676.438,1.107189400903527,0.8303920506776452
+South Africa,2024,"Wine; still, in containers holding more than 10 litres",Re-Export,3343.797,4415.186,Volume in litres,4440.495,Still_Bulk,4440.495,0.7530234804903507,0.564767610367763
+South Africa,2024,"Wine; still, in containers holding more than 10 litres",Export,140749413.259,185847053.887,Volume in litres,186912412.573,Still_Bulk,186912412.573,0.7530233616990487,0.5647675212742865
+South Africa,2023,Wine; sparkling,Export,26506133.921,5345165.68,Volume in litres,5345165.68,Sparkling,5345165.68,4.958898471599856,3.7191738536998917
+South Africa,2023,Wine; sparkling,Re-Export,47.425,15.0,Volume in litres,15.0,Sparkling,15.0,3.1616666666666666,2.37125
+South Africa,2023,Wine; sparkling,Import,44711979.643,2031532.54,Volume in litres,2031532.54,Sparkling,2031532.54,22.008990140517266,16.50674260538795
+South Africa,2023,"Wine; still, in containers holding 2 litres or less",Export,431996469.21,141431473.832,Volume in litres,141431473.832,Still_Bottled,141431473.832,3.0544578056447955,2.290843354233597
+South Africa,2023,"Wine; still, in containers holding 2 litres or less",Import,9407043.47,1154879.25,Volume in litres,1154879.25,Still_Bottled,1154879.25,8.145477953647536,6.109108465235652
+South Africa,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,94700.752,20983.7,Volume in litres,20983.7,Still_2to10L,20983.7,4.513062615268041,3.3847969614510305
+South Africa,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,31518666.011,19605859.43,Volume in litres,19605859.43,Still_2to10L,19605859.43,1.6076146074357527,1.2057109555768144
+South Africa,2023,"Wine; still, in containers holding more than 10 litres",Export,129074115.351,182439098.126,Volume in litres,182439098.126,Still_Bulk,182439098.126,0.7074915227976849,0.5306186420982637
+South Africa,2023,"Wine; still, in containers holding more than 10 litres",Import,137994.976,96820.22,Volume in litres,96820.22,Still_Bulk,96820.22,1.4252702173161762,1.0689526629871322
+South Africa,2022,Wine; sparkling,Export,26320167.514,4851397.0,Volume in litres,4851397.0,Sparkling,4851397.0,5.425275959481361,4.068956969611021
+South Africa,2022,Wine; sparkling,Import,42783299.901,2007357.63,Volume in litres,2007357.63,Sparkling,2007357.63,21.31324247438659,15.984931855789943
+South Africa,2022,"Wine; still, in containers holding 2 litres or less",Export,467622215.198,157952607.948,Volume in litres,157952607.948,Still_Bottled,157952607.948,2.960522281163899,2.2203917108729243
+South Africa,2022,"Wine; still, in containers holding 2 litres or less",Re-Export,18236.407,189.0,Volume in litres,189.0,Still_Bottled,189.0,96.48892592592593,72.36669444444445
+South Africa,2022,"Wine; still, in containers holding 2 litres or less",Import,7865925.602,1028957.18,Volume in litres,1028957.18,Still_Bottled,1028957.18,7.644560682301667,5.7334205117262504
+South Africa,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,38789481.64,,No Quantity,,Still_2to10L,,,
+South Africa,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,7068.417,29.72,Volume in litres,29.72,Still_2to10L,29.72,237.83368102288023,178.37526076716017
+South Africa,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,114067.785,37134.93,Volume in litres,37134.93,Still_2to10L,37134.93,3.071711324082205,2.303783493061654
+South Africa,2022,"Wine; still, in containers holding more than 10 litres",Export,161166775.75,,No Quantity,,Still_Bulk,,,
+South Africa,2022,"Wine; still, in containers holding more than 10 litres",Import,205429.51,148086.5,Volume in litres,148086.5,Still_Bulk,148086.5,1.3872264521073832,1.0404198390805375
+South Africa,2021,Wine; sparkling,Import,36436187.618,1548453.68,Volume in litres,1548453.68,Sparkling,1548453.68,23.53069264429014,17.648019483217606
+South Africa,2021,Wine; sparkling,Export,28223072.461,6206754.32,Volume in litres,6206754.32,Sparkling,6206754.32,4.547154761717715,3.410366071288286
+South Africa,2021,"Wine; still, in containers holding 2 litres or less",Export,502512333.551,190186776.93,Volume in litres,190186776.93,Still_Bottled,190186776.93,2.6422043722627166,1.9816532791970376
+South Africa,2021,"Wine; still, in containers holding 2 litres or less",Import,7006261.151,879011.18,Volume in litres,879011.18,Still_Bottled,879011.18,7.970616654727872,5.977962491045904
+South Africa,2021,"Wine; still, in containers holding 2 litres or less",Re-Export,420.2,69.0,Volume in litres,69.0,Still_Bottled,69.0,6.089855072463768,4.567391304347826
+South Africa,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,40119.894,25908.05,Volume in litres,25908.05,Still_2to10L,25908.05,1.5485493504914496,1.1614120128685872
+South Africa,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,44060285.958,32523053.91,Volume in litres,32523053.91,Still_2to10L,32523053.91,1.354740120036901,1.0160550900276757
+South Africa,2021,"Wine; still, in containers holding more than 10 litres",Export,173276485.126,250358401.386,Volume in litres,250358401.386,Still_Bulk,250358401.386,0.6921137224344395,0.5190852918258296
+South Africa,2021,"Wine; still, in containers holding more than 10 litres",Import,57057.741,50997.02,Volume in litres,50997.02,Still_Bulk,50997.02,1.1188446109204029,0.8391334581903022
+South Africa,2020,Wine; sparkling,Export,19963093.244,4675410.26,Volume in litres,4673911.982,Sparkling,4673911.982,4.271174408264669,3.203380806198502
+South Africa,2020,Wine; sparkling,Re-Export,2198.054,156.0,Volume in litres,156.0,Sparkling,156.0,14.090089743589743,10.567567307692308
+South Africa,2020,Wine; sparkling,Import,18369326.347,868301.61,Volume in litres,868301.61,Sparkling,868301.61,21.15546733467418,15.866600501005635
+South Africa,2020,"Wine; still, in containers holding 2 litres or less",Export,425830348.574,148447357.451,Volume in litres,148447357.451,Still_Bottled,148447357.451,2.868561326290766,2.1514209947180745
+South Africa,2020,"Wine; still, in containers holding 2 litres or less",Re-Export,5741.924,804.0,Volume in litres,804.0,Still_Bottled,804.0,7.141696517412935,5.356272388059701
+South Africa,2020,"Wine; still, in containers holding 2 litres or less",Import,5727766.858,663517.68,Volume in litres,663517.68,Still_Bottled,663517.68,8.6324253756132,6.4743190317099
+South Africa,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,51294.318,8160.08,Volume in litres,8160.08,Still_2to10L,8160.08,6.286006754835737,4.714505066126803
+South Africa,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,46943011.128,40654764.62,Volume in litres,40654764.62,Still_2to10L,40654764.62,1.1546742815209048,0.8660057111406786
+South Africa,2020,"Wine; still, in containers holding more than 10 litres",Import,1153469.038,3238226.66,Volume in litres,3238226.66,Still_Bulk,3238226.66,0.35620392242709775,0.26715294182032334
+South Africa,2020,"Wine; still, in containers holding more than 10 litres",Export,129499260.491,167448291.26,Volume in litres,167448291.26,Still_Bulk,167448291.26,0.7733686591637066,0.58002649437278
+South Africa,2019,Wine; sparkling,Re-Export,50384.879,1661.0,Volume in litres,1661.0,Sparkling,1661.0,30.334063214930765,22.750547411198074
+South Africa,2019,Wine; sparkling,Import,32204466.662,1468618.24,Volume in litres,1468618.24,Sparkling,1468618.24,21.92841256145641,16.446309421092305
+South Africa,2019,Wine; sparkling,Export,20373746.841,4287227.82,Volume in litres,4287227.82,Sparkling,4287227.82,4.752195986869668,3.564146990152251
+South Africa,2019,"Wine; still, in containers holding 2 litres or less",Export,459788020.327,161558236.079,Volume in litres,161558236.079,Still_Bottled,161558236.079,2.8459584078534337,2.134468805890075
+South Africa,2019,"Wine; still, in containers holding 2 litres or less",Re-Export,535075.192,29719.1,Volume in litres,29719.1,Still_Bottled,29719.1,18.00442112984579,13.503315847384343
+South Africa,2019,"Wine; still, in containers holding 2 litres or less",Import,7814617.318,1690697.93,Volume in litres,1690697.93,Still_Bottled,1690697.93,4.622125087714516,3.4665938157858873
+South Africa,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,288919.704,943.0,Volume in litres,943.0,Still_2to10L,943.0,306.3835673382821,229.78767550371157
+South Africa,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,22472.543,3746.5,Volume in litres,3746.5,Still_2to10L,3746.5,5.99827652475644,4.498707393567329
+South Africa,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,46994221.058,40142409.04,Volume in litres,40142409.04,Still_2to10L,40142409.04,1.17068761396887,0.8780157104766525
+South Africa,2019,"Wine; still, in containers holding more than 10 litres",Export,133200273.993,181798243.152,No Quantity,,Still_Bulk,181798243.152,0.7326818548055624,0.5495113911041718
+South Africa,2019,"Wine; still, in containers holding more than 10 litres",Re-Export,27654.619,797.0,Volume in litres,797.0,Still_Bulk,797.0,34.69839272271016,26.02379454203262
+South Africa,2019,"Wine; still, in containers holding more than 10 litres",Import,11970893.793,32223949.87,Volume in litres,32223949.87,Still_Bulk,32223949.87,0.371490578941867,0.27861793420640024
+USA,2024,Wine; sparkling,Re-Export,18512226.0,1366032.0,Volume in litres,1366032.0,Sparkling,1366032.0,13.551824554622439,10.163868415966828
+USA,2024,Wine; sparkling,Export,41476009.0,3921837.0,Volume in litres,3921837.0,Sparkling,3921837.0,10.575658549807144,7.931743912355358
+USA,2024,Wine; sparkling,Import,1777444969.0,187825559.0,Volume in litres,187825559.0,Sparkling,187825559.0,9.463275277674004,7.097456458255503
+USA,2024,"Wine; still, in containers holding 2 litres or less",Re-Export,45368029.0,4540130.0,Volume in litres,4540130.0,Still_Bottled,4540130.0,9.992671795741531,7.494503846806149
+USA,2024,"Wine; still, in containers holding 2 litres or less",Export,1003802196.0,113505284.0,Volume in litres,113505284.0,Still_Bottled,113505284.0,8.843660494255051,6.632745370691288
+USA,2024,"Wine; still, in containers holding 2 litres or less",Import,5018440934.0,684131446.4,Volume in litres,684131446.4,Still_Bottled,684131446.4,7.335492266007903,5.501619199505927
+USA,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,27964599.0,7139035.0,Volume in litres,7139035.0,Still_2to10L,7139035.0,3.917139921572033,2.9378549411790247
+USA,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,26335811.0,8049294.827,Volume in litres,8047640.189,Still_2to10L,8047640.189,3.2724886279082623,2.4543664709311965
+USA,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,884623.0,326683.0,Volume in litres,326683.0,Still_2to10L,326683.0,2.7078941971268784,2.030920647845159
+USA,2024,"Wine; still, in containers holding more than 10 litres",Re-Export,849675.0,316803.0,Volume in litres,316803.0,Still_Bulk,316803.0,2.682029526235547,2.0115221446766602
+USA,2024,"Wine; still, in containers holding more than 10 litres",Export,178276049.0,114520219.393,Volume in litres,114520219.393,Still_Bulk,114520219.393,1.5567211619479053,1.167540871460929
+USA,2024,"Wine; still, in containers holding more than 10 litres",Import,283782503.0,346498094.722,Volume in litres,346498094.722,Still_Bulk,346498094.722,0.8190016260484273,0.6142512195363204
+USA,2023,Wine; sparkling,Re-Export,11333559.0,831884.0,Volume in litres,831884.0,Sparkling,831884.0,13.623965600973213,10.217974200729909
+USA,2023,Wine; sparkling,Export,61971708.0,7772016.0,Volume in litres,7772016.0,Sparkling,7772016.0,7.97369794400835,5.980273458006263
+USA,2023,Wine; sparkling,Import,1751818455.0,169232959.0,Volume in litres,169232959.0,Sparkling,169232959.0,10.351520562847336,7.763640422135502
+USA,2023,"Wine; still, in containers holding 2 litres or less",Re-Export,40677904.0,5547240.0,Volume in litres,5547240.0,Still_Bottled,5547240.0,7.332998752532791,5.499749064399593
+USA,2023,"Wine; still, in containers holding 2 litres or less",Export,1018954966.0,116396541.0,Volume in litres,116396541.0,Still_Bottled,116396541.0,8.754168785823284,6.565626589367463
+USA,2023,"Wine; still, in containers holding 2 litres or less",Import,4883193499.0,649590189.491,Volume in litres,649590189.491,Still_Bottled,649590189.491,7.517344901446754,5.638008676085065
+USA,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,7789060.0,1411788.0,Volume in litres,1411788.0,Still_2to10L,1411788.0,5.51715980019663,4.137869850147473
+USA,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,37663781.0,8906569.0,Volume in litres,8906569.0,Still_2to10L,8906569.0,4.228764297452813,3.1715732230896094
+USA,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,28239097.0,7872044.338,Volume in litres,7872044.338,Still_2to10L,7872044.338,3.5872634588303813,2.690447594122786
+USA,2023,"Wine; still, in containers holding more than 10 litres",Export,106962637.0,73280254.304,Volume in litres,73280254.304,Still_Bulk,73280254.304,1.459637906771858,1.0947284300788933
+USA,2023,"Wine; still, in containers holding more than 10 litres",Re-Export,2572184.0,1639818.304,Volume in litres,1639818.304,Still_Bulk,1639818.304,1.5685786612612418,1.1764339959459313
+USA,2023,"Wine; still, in containers holding more than 10 litres",Import,328114767.0,399876608.0,Volume in litres,399876608.0,Still_Bulk,399876608.0,0.8205400376908268,0.6154050282681202
+USA,2022,Wine; sparkling,Re-Export,11431917.0,980139.0,Volume in litres,980139.0,Sparkling,980139.0,11.663567106298188,8.747675329723641
+USA,2022,Wine; sparkling,Export,32227447.0,3295738.0,Volume in litres,3295738.0,Sparkling,3295738.0,9.778522139806016,7.333891604854513
+USA,2022,Wine; sparkling,Import,2033036581.0,206283477.0,Volume in litres,206283477.0,Sparkling,206283477.0,9.85554737862015,7.391660533965112
+USA,2022,"Wine; still, in containers holding 2 litres or less",Import,5165548456.0,734293818.132,Volume in litres,734294452.98,Still_Bottled,734294452.98,7.034709897421347,5.2760324230660105
+USA,2022,"Wine; still, in containers holding 2 litres or less",Export,1226753729.0,145608179.576,Volume in litres,145608179.576,Still_Bottled,145608179.576,8.425033075560824,6.318774806670618
+USA,2022,"Wine; still, in containers holding 2 litres or less",Re-Export,49729918.0,4824994.576,Volume in litres,4824994.576,Still_Bottled,4824994.576,10.306730342736865,7.730047757052649
+USA,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,26830609.0,9086668.327,Volume in litres,9092860.825,Still_2to10L,9092860.825,2.950733494812949,2.2130501211097116
+USA,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,41935371.0,9192397.0,Volume in litres,9192397.0,Still_2to10L,9192397.0,4.56196256536788,3.42147192402591
+USA,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,17165696.0,2787167.0,Volume in litres,2787167.0,Still_2to10L,2787167.0,6.158832965516598,4.619124724137448
+USA,2022,"Wine; still, in containers holding more than 10 litres",Import,459345453.0,487470626.295,Volume in litres,487470626.295,Still_Bulk,487470626.295,0.9423038604217772,0.7067278953163328
+USA,2022,"Wine; still, in containers holding more than 10 litres",Re-Export,1452986.0,497102.0,Volume in litres,497102.0,Still_Bulk,497102.0,2.9229132049358078,2.1921849037018557
+USA,2022,"Wine; still, in containers holding more than 10 litres",Export,163573105.0,120393708.0,Volume in litres,120393708.0,Still_Bulk,120393708.0,1.3586516082717546,1.0189887062038159
+USA,2021,Wine; sparkling,Import,1910501205.0,197486157.0,Volume in litres,197486157.0,Sparkling,197486157.0,9.674101891607522,7.255576418705642
+USA,2021,Wine; sparkling,Export,40957161.0,3826656.0,Volume in litres,3826656.0,Sparkling,3826656.0,10.703120688141292,8.02734051610597
+USA,2021,Wine; sparkling,Re-Export,15998799.0,1310570.0,Volume in litres,1310570.0,Sparkling,1310570.0,12.207511998596031,9.155633998947023
+USA,2021,"Wine; still, in containers holding 2 litres or less",Import,5011332628.0,740650143.0,Volume in litres,740650143.0,Still_Bottled,740650143.0,6.766126592106795,5.074594944080096
+USA,2021,"Wine; still, in containers holding 2 litres or less",Export,1190818779.0,149190775.0,Volume in litres,149190775.0,Still_Bottled,149190775.0,7.981852624600951,5.986389468450714
+USA,2021,"Wine; still, in containers holding 2 litres or less",Re-Export,56951365.0,5692735.0,Volume in litres,5692735.0,Still_Bottled,5692735.0,10.004218534676214,7.503163901007161
+USA,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,31177257.0,11211024.98,Volume in litres,11211024.98,Still_2to10L,11211024.98,2.7809461717924027,2.085709628844302
+USA,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,2167276.0,720828.0,Volume in litres,720828.0,Still_2to10L,720828.0,3.006647910458528,2.254985932843896
+USA,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,28977644.0,9522263.0,Volume in litres,9522263.0,Still_2to10L,9522263.0,3.043146781390096,2.282360086042572
+USA,2021,"Wine; still, in containers holding more than 10 litres",Import,422497728.0,442502025.003,Volume in litres,442502025.003,Still_Bulk,442502025.003,0.9547927560266771,0.7160945670200078
+USA,2021,"Wine; still, in containers holding more than 10 litres",Re-Export,1204167.0,524993.0,Volume in litres,524993.0,Still_Bulk,524993.0,2.293682010998242,1.7202615082486814
+USA,2021,"Wine; still, in containers holding more than 10 litres",Export,192786692.0,165688395.0,Volume in litres,165688395.0,Still_Bulk,165688395.0,1.1635497585693917,0.8726623189270437
+USA,2020,Wine; sparkling,Import,1304718850.0,143477394.0,Volume in litres,143477394.0,Sparkling,143477394.0,9.093549956726982,6.820162467545236
+USA,2020,Wine; sparkling,Export,57559651.0,4454905.0,Volume in litres,4454905.0,Sparkling,4454905.0,12.920511436270807,9.690383577203106
+USA,2020,Wine; sparkling,Re-Export,36287770.0,2004376.0,Volume in litres,2004376.0,Sparkling,2004376.0,18.10427285100201,13.578204638251506
+USA,2020,"Wine; still, in containers holding 2 litres or less",Import,4214996721.0,704296190.824,Volume in litres,704296190.824,Still_Bottled,704296190.824,5.984693337711528,4.4885200032836465
+USA,2020,"Wine; still, in containers holding 2 litres or less",Export,953925716.0,122751500.0,Volume in litres,122751500.0,Still_Bottled,122751500.0,7.771193965043197,5.828395473782398
+USA,2020,"Wine; still, in containers holding 2 litres or less",Re-Export,45636759.0,3855617.0,Volume in litres,3855617.0,Still_Bottled,3855617.0,11.836434739238882,8.877326054429162
+USA,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,21806361.0,,No Quantity,,Still_2to10L,,,
+USA,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,30197692.0,11198531.0,Volume in litres,11198531.0,Still_2to10L,11198531.0,2.696576184858532,2.022432138643899
+USA,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,934393.0,352074.0,Volume in litres,352074.0,Still_2to10L,352074.0,2.653967631804677,1.9904757238535078
+USA,2020,"Wine; still, in containers holding more than 10 litres",Import,333897454.0,372020626.0,Volume in litres,372020626.0,Still_Bulk,372020626.0,0.89752403674521,0.6731430275589074
+USA,2020,"Wine; still, in containers holding more than 10 litres",Export,277618844.0,228698655.0,Volume in litres,228698655.0,Still_Bulk,228698655.0,1.2139067630284053,0.9104300722713039
+USA,2020,"Wine; still, in containers holding more than 10 litres",Re-Export,1167047.0,625450.0,Volume in litres,625450.0,Still_Bulk,625450.0,1.8659317291550084,1.3994487968662563
+USA,2019,Wine; sparkling,Re-Export,27473311.0,2063465.0,Volume in litres,2063465.0,Sparkling,2063465.0,13.314163797302111,9.985622847976583
+USA,2019,Wine; sparkling,Export,55188921.0,4591482.0,Volume in litres,4591482.0,Sparkling,4591482.0,12.019849146746083,9.014886860059562
+USA,2019,Wine; sparkling,Import,1430135736.0,153825477.0,Volume in litres,153825477.0,Sparkling,153825477.0,9.297131813867217,6.972848860400413
+USA,2019,"Wine; still, in containers holding 2 litres or less",Export,1050322547.0,143557670.0,Volume in litres,143557670.0,Still_Bottled,143557670.0,7.316380566778494,5.48728542508387
+USA,2019,"Wine; still, in containers holding 2 litres or less",Re-Export,59275809.0,4755757.0,Volume in litres,4755757.0,Still_Bottled,4755757.0,12.464011302511881,9.348008476883912
+USA,2019,"Wine; still, in containers holding 2 litres or less",Import,4730122750.0,727967886.0,Volume in litres,727967886.0,Still_Bottled,727967886.0,6.4977079909264015,4.873280993194801
+USA,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,992415.0,211919.0,Volume in litres,211919.0,Still_2to10L,211919.0,4.682992086599125,3.5122440649493436
+USA,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,24086236.0,10078406.0,Volume in litres,10078406.0,Still_2to10L,10078406.0,2.3898854640307206,1.7924140980230403
+USA,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,26597359.0,10159714.184,Volume in litres,10159714.184,Still_2to10L,10159714.184,2.617923941392641,1.9634429560444806
+USA,2019,"Wine; still, in containers holding more than 10 litres",Export,254897078.0,197108440.745,Volume in litres,197108440.745,Still_Bulk,197108440.745,1.2931819511969118,0.9698864633976838
+USA,2019,"Wine; still, in containers holding more than 10 litres",Re-Export,740710.0,188552.0,Volume in litres,188552.0,Still_Bulk,188552.0,3.928412321269464,2.946309240952098
+USA,2019,"Wine; still, in containers holding more than 10 litres",Import,300365703.0,340484195.0,Volume in litres,340484195.0,Still_Bulk,340484195.0,0.8821722341619997,0.6616291756214998
+Canada,2024,Wine; sparkling,Import,225049395.89,21573180.21,Volume in litres,21573180.0,Sparkling,21573180.0,10.431906463951998,7.823929847963999
+Canada,2024,Wine; sparkling,Re-Export,191703.454,15090.0,Volume in litres,15090.0,Sparkling,15090.0,12.70400622929092,9.52800467196819
+Canada,2024,Wine; sparkling,Export,2020882.338,263894.0,Volume in litres,263894.0,Sparkling,263894.0,7.657932116683214,5.743449087512411
+Canada,2024,"Wine; still, in containers holding 2 litres or less",Export,20184418.541,1170306.0,Volume in litres,1170306.0,Still_Bottled,1170306.0,17.247128991050204,12.935346743287653
+Canada,2024,"Wine; still, in containers holding 2 litres or less",Import,1757546405.444,247233310.264,Volume in litres,247233289.0,Still_Bottled,247233289.0,7.108858247013815,5.331643685260362
+Canada,2024,"Wine; still, in containers holding 2 litres or less",Re-Export,8072108.685,244472.0,Volume in litres,244472.0,Still_Bottled,244472.0,33.0185407122288,24.7639055341716
+Canada,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,180373.342,23254.0,Volume in litres,23254.0,Still_2to10L,23254.0,7.756658725380579,5.817494044035435
+Canada,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,601901.713,383269.0,Volume in litres,383269.0,Still_2to10L,383269.0,1.570441942865194,1.1778314571488955
+Canada,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,30347341.513,10264564.362,Volume in litres,10264553.0,Still_2to10L,10264553.0,2.9565185656891244,2.217388924266843
+Canada,2024,"Wine; still, in containers holding more than 10 litres",Import,70294935.757,98557276.167,Volume in litres,98557269.0,Still_Bulk,98557269.0,0.7132394847203001,0.5349296135402251
+Canada,2024,"Wine; still, in containers holding more than 10 litres",Export,58481004.754,202906460.0,Volume in litres,202906460.0,Still_Bulk,202906460.0,0.2882165740509198,0.21616243053818987
+Canada,2024,"Wine; still, in containers holding more than 10 litres",Re-Export,146.054,62.0,Volume in litres,62.0,Still_Bulk,62.0,2.355709677419355,1.766782258064516
+Canada,2023,Wine; sparkling,Re-Export,187676.404,6657.0,Volume in litres,6657.0,Sparkling,6657.0,28.192339492263784,21.144254619197838
+Canada,2023,Wine; sparkling,Export,1770202.752,205931.0,Volume in litres,205931.0,Sparkling,205931.0,8.596096517765659,6.447072388324244
+Canada,2023,Wine; sparkling,Import,222878073.253,20998119.326,Volume in litres,20998118.0,Sparkling,20998118.0,10.614192817327725,7.960644612995793
+Canada,2023,"Wine; still, in containers holding 2 litres or less",Export,26648995.928,1466110.571,Volume in litres,1466110.0,Still_Bottled,1466110.0,18.176668822939615,13.63250161720471
+Canada,2023,"Wine; still, in containers holding 2 litres or less",Import,1677390455.545,242254174.101,Volume in litres,242254145.0,Still_Bottled,242254145.0,6.92409393261362,5.193070449460215
+Canada,2023,"Wine; still, in containers holding 2 litres or less",Re-Export,11207357.66,379726.0,Volume in litres,379726.0,Still_Bottled,379726.0,29.51432785745511,22.135745893091332
+Canada,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,28245572.116,9236039.956,Volume in litres,9236023.0,Still_2to10L,9236023.0,3.058196381277959,2.2936472859584693
+Canada,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,876649.693,548619.0,Volume in litres,548619.0,Still_2to10L,548619.0,1.597920766506446,1.1984405748798346
+Canada,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,72513.055,7075.0,Volume in litres,7075.0,Still_2to10L,7075.0,10.249195053003533,7.686896289752649
+Canada,2023,"Wine; still, in containers holding more than 10 litres",Import,66785116.381,102608287.499,Volume in litres,102608201.0,Still_Bulk,102608201.0,0.6508750346475717,0.4881562759856788
+Canada,2023,"Wine; still, in containers holding more than 10 litres",Export,64236089.814,223634567.0,Volume in litres,223634567.0,Still_Bulk,223634567.0,0.2872368555349496,0.2154276416512122
+Canada,2022,Wine; sparkling,Re-Export,131816.964,2890.0,Volume in litres,2890.0,Sparkling,2890.0,45.6114062283737,34.208554671280275
+Canada,2022,Wine; sparkling,Import,249047505.309,23502322.538,Volume in litres,23502320.0,Sparkling,23502320.0,10.596720039085502,7.947540029314126
+Canada,2022,Wine; sparkling,Export,1545773.586,204159.0,Volume in litres,204159.0,Sparkling,204159.0,7.571420245984747,5.67856518448856
+Canada,2022,"Wine; still, in containers holding 2 litres or less",Re-Export,8310586.051,104537.0,Volume in litres,104537.0,Still_Bottled,104537.0,79.49899127581622,59.62424345686217
+Canada,2022,"Wine; still, in containers holding 2 litres or less",Export,25638485.226,996012.0,Volume in litres,996012.0,Still_Bottled,996012.0,25.74114089589282,19.305855671919616
+Canada,2022,"Wine; still, in containers holding 2 litres or less",Import,1918355085.955,281901312.548,Volume in litres,281901236.0,Still_Bottled,281901236.0,6.80506092550442,5.103795694128315
+Canada,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,27358243.038,8538359.6,Volume in litres,8538315.0,Still_2to10L,8538315.0,3.204173544545967,2.4031301584094753
+Canada,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,122308.336,18035.0,Volume in litres,18035.0,Still_2to10L,18035.0,6.781720876074299,5.0862906570557245
+Canada,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,949290.817,756378.0,Volume in litres,756378.0,Still_2to10L,756378.0,1.2550481597825427,0.941286119836907
+Canada,2022,"Wine; still, in containers holding more than 10 litres",Import,75531192.006,104001666.757,Volume in litres,104001452.0,Still_Bulk,104001452.0,0.7262513220103888,0.5446884915077916
+Canada,2022,"Wine; still, in containers holding more than 10 litres",Re-Export,553.185,221.0,Volume in litres,221.0,Still_Bulk,221.0,2.503099547511312,1.8773246606334841
+Canada,2022,"Wine; still, in containers holding more than 10 litres",Export,56434145.627,210937106.0,Volume in litres,210937106.0,Still_Bulk,210937106.0,0.2675401530681851,0.20065511480113885
+Canada,2021,Wine; sparkling,Export,1436286.917,199483.0,Volume in litres,199483.0,Sparkling,199483.0,7.200046705734323,5.400035029300742
+Canada,2021,Wine; sparkling,Import,231248270.792,21174165.286,Volume in litres,21174162.0,Sparkling,21174162.0,10.921247829878698,8.190935872409025
+Canada,2021,Wine; sparkling,Re-Export,81736.093,13541.0,Volume in litres,13541.0,Sparkling,13541.0,6.036193264899195,4.527144948674396
+Canada,2021,"Wine; still, in containers holding 2 litres or less",Export,22532874.476,869107.0,Volume in litres,869107.0,Still_Bottled,869107.0,25.926467599501557,19.444850699626166
+Canada,2021,"Wine; still, in containers holding 2 litres or less",Re-Export,5018628.188,40965.0,Volume in litres,40965.0,Still_Bottled,40965.0,122.51014739411693,91.8826105455877
+Canada,2021,"Wine; still, in containers holding 2 litres or less",Import,1900913012.932,276477538.214,Volume in litres,276477483.0,Still_Bottled,276477483.0,6.875471348717392,5.156603511538044
+Canada,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,32955029.08,10388407.862,Volume in litres,10388343.0,Still_2to10L,10388343.0,3.1723085269710483,2.3792313952282864
+Canada,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,947315.475,733537.0,Volume in litres,733537.0,Still_2to10L,733537.0,1.2914351627797915,0.9685763720848437
+Canada,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,58013.669,12785.0,Volume in litres,12785.0,Still_2to10L,12785.0,4.537635432147048,3.4032265741102856
+Canada,2021,"Wine; still, in containers holding more than 10 litres",Re-Export,5457.473,,No Quantity,,Still_Bulk,,,
+Canada,2021,"Wine; still, in containers holding more than 10 litres",Export,53598998.846,206267920.751,Volume in litres,206267920.751,Still_Bulk,206267920.751,0.2598513557069448,0.19488851678020858
+Canada,2021,"Wine; still, in containers holding more than 10 litres",Import,81783730.334,110893112.465,Volume in litres,110893000.0,Still_Bulk,110893000.0,0.7375012880344116,0.5531259660258088
+Canada,2020,Wine; sparkling,Import,162237029.75,17642203.297,Volume in litres,17642199.0,Sparkling,17642199.0,9.195964162404017,6.896973121803013
+Canada,2020,Wine; sparkling,Export,2502528.029,342857.0,Volume in litres,342857.0,Sparkling,342857.0,7.299043125851303,5.474282344388477
+Canada,2020,Wine; sparkling,Re-Export,100424.813,15972.0,Volume in litres,15972.0,Sparkling,15972.0,6.287554032056097,4.715665524042073
+Canada,2020,"Wine; still, in containers holding 2 litres or less",Export,13319072.608,693608.777,Volume in litres,693608.0,Still_Bottled,693608.0,19.202593695574443,14.401945271680832
+Canada,2020,"Wine; still, in containers holding 2 litres or less",Re-Export,552935.582,15060.0,Volume in litres,15060.0,Still_Bottled,15060.0,36.71551009296149,27.536632569721114
+Canada,2020,"Wine; still, in containers holding 2 litres or less",Import,1694188518.802,284838142.862,Volume in litres,284838104.0,Still_Bottled,284838104.0,5.9478998596409705,4.460924894730728
+Canada,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,244819.268,98196.0,Volume in litres,98196.0,Still_2to10L,98196.0,2.4931694570043588,1.869877092753269
+Canada,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,655147.664,587872.0,Volume in litres,587872.0,Still_2to10L,587872.0,1.114439306515704,0.835829479886778
+Canada,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,29096657.374,10059313.169,Volume in litres,10059233.0,Still_2to10L,10059233.0,2.892532400233696,2.169399300175272
+Canada,2020,"Wine; still, in containers holding more than 10 litres",Import,87659250.754,137370185.836,Volume in litres,137370076.0,Still_Bulk,137370076.0,0.6381247889387496,0.4785935917040622
+Canada,2020,"Wine; still, in containers holding more than 10 litres",Export,37509322.652,163859792.0,Volume in litres,163859792.0,Still_Bulk,163859792.0,0.22891108425183404,0.17168331318887553
+Canada,2020,"Wine; still, in containers holding more than 10 litres",Re-Export,25460.19,48000.0,Volume in litres,48000.0,Still_Bulk,48000.0,0.530420625,0.39781546874999996
+Canada,2019,Wine; sparkling,Import,172011157.349,18314743.815,Volume in litres,18314739.0,Sparkling,18314739.0,9.39195242416504,7.0439643181237805
+Canada,2019,Wine; sparkling,Re-Export,314357.109,37366.0,Volume in litres,37366.0,Sparkling,37366.0,8.412918401755606,6.309688801316705
+Canada,2019,Wine; sparkling,Export,3441037.871,483719.0,Volume in litres,483719.0,Sparkling,483719.0,7.11371244668909,5.3352843350168175
+Canada,2019,"Wine; still, in containers holding 2 litres or less",Re-Export,4413610.559,103051.0,Volume in litres,103051.0,Still_Bottled,103051.0,42.8293811704884,32.1220358778663
+Canada,2019,"Wine; still, in containers holding 2 litres or less",Import,1668468390.481,281180093.438,Volume in litres,281180050.0,Still_Bottled,281180050.0,5.933807858989285,4.450355894241964
+Canada,2019,"Wine; still, in containers holding 2 litres or less",Export,25440389.817,1198862.0,Volume in litres,1198862.0,Still_Bottled,1198862.0,21.220448906546377,15.915336679909782
+Canada,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,143893.747,26303.0,Volume in litres,26303.0,Still_2to10L,26303.0,5.4706211078584195,4.102965830893814
+Canada,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,1108792.645,807246.0,Volume in litres,807246.0,Still_2to10L,807246.0,1.3735498782279503,1.0301624086709626
+Canada,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,23228553.464,8124519.427,Volume in litres,8124516.0,Still_2to10L,8124516.0,2.859069200429909,2.1443019003224317
+Canada,2019,"Wine; still, in containers holding more than 10 litres",Export,34896423.883,137568657.0,Volume in litres,137568657.0,Still_Bulk,137568657.0,0.25366551250841973,0.1902491343813148
+Canada,2019,"Wine; still, in containers holding more than 10 litres",Import,85086993.462,109164261.23,Volume in litres,109164151.0,Still_Bulk,109164151.0,0.7794408025213332,0.5845806018909999
+China,2024,Wine; sparkling,Export,3471229.0,141737.0,Volume in litres,143175.0,Sparkling,143175.0,24.24465863453815,18.183493975903612
+China,2024,Wine; sparkling,Import,67224370.0,6637168.0,Volume in litres,6684586.0,Sparkling,6684586.0,10.056624299545252,7.542468224658939
+China,2024,"Wine; still, in containers holding 2 litres or less",Export,28748237.0,2208650.0,Volume in litres,2211282.0,Still_Bottled,2211282.0,13.000710447604602,9.750532835703451
+China,2024,"Wine; still, in containers holding 2 litres or less",Import,1435243568.0,164680679.0,Volume in litres,165368055.0,Still_Bottled,165368055.0,8.679085981872376,6.509314486404282
+China,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,590946.0,220974.0,Volume in litres,220305.0,Still_2to10L,220305.0,2.6823994008306666,2.011799550623
+China,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,8511082.0,2385730.0,Volume in litres,2408877.0,Still_2to10L,2408877.0,3.5332156851512138,2.64991176386341
+China,2024,"Wine; still, in containers holding more than 10 litres",Export,33884.0,40166.0,Volume in litres,40166.0,Still_Bulk,40166.0,0.8435990638848777,0.6326992979136583
+China,2024,"Wine; still, in containers holding more than 10 litres",Import,80770669.0,107581327.0,Volume in litres,108291895.0,Still_Bulk,108291895.0,0.7458607036103672,0.5593955277077753
+China,2023,Wine; sparkling,Import,78504907.0,5860829.0,Volume in litres,5905359.0,Sparkling,5905359.0,13.293841576777973,9.97038118258348
+China,2023,Wine; sparkling,Export,1876623.0,96636.0,Volume in litres,97464.0,Sparkling,97464.0,19.254524747599113,14.440893560699335
+China,2023,"Wine; still, in containers holding 2 litres or less",Import,1001473273.0,151612175.0,Volume in litres,152137143.0,Still_Bottled,152137143.0,6.582700668961556,4.937025501721167
+China,2023,"Wine; still, in containers holding 2 litres or less",Export,34940742.0,2781229.0,Volume in litres,2794788.0,Still_Bottled,2794788.0,12.502108209996608,9.376581157497457
+China,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,8193686.0,2786040.0,Volume in litres,2814178.0,Still_2to10L,2814178.0,2.9115734683449306,2.183680101258698
+China,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,650913.0,261274.0,Volume in litres,262044.0,Still_2to10L,262044.0,2.4839836058066584,1.8629877043549938
+China,2023,"Wine; still, in containers holding more than 10 litres",Import,72105772.0,87723966.0,Volume in litres,88099162.0,Still_Bulk,88099162.0,0.8184614968301288,0.6138461226225966
+China,2023,"Wine; still, in containers holding more than 10 litres",Export,263491.0,127019.0,Volume in litres,127215.0,Still_Bulk,127215.0,2.071225877451558,1.5534194080886685
+China,2022,Wine; sparkling,Import,86971796.0,8155679.0,Volume in litres,8210215.0,Sparkling,8210215.0,10.593120399404887,7.944840299553665
+China,2022,Wine; sparkling,Export,2597372.0,110012.0,Volume in litres,110628.0,Sparkling,110628.0,23.47843222330694,17.608824167480204
+China,2022,"Wine; still, in containers holding 2 litres or less",Import,1223512197.0,215904307.0,Volume in litres,216558509.0,Still_Bottled,216558509.0,5.649799689930448,4.237349767447836
+China,2022,"Wine; still, in containers holding 2 litres or less",Export,38140482.0,2715865.0,Volume in litres,2722237.0,Still_Bottled,2722237.0,14.010713247964818,10.508034935973614
+China,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,10595953.0,3392747.0,Volume in litres,3423592.0,Still_2to10L,3423592.0,3.0949812360818694,2.321235927061402
+China,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,141527.0,32473.0,Volume in litres,33056.0,Still_2to10L,33056.0,4.281431510164569,3.2110736326234264
+China,2022,"Wine; still, in containers holding more than 10 litres",Import,113863909.0,106664739.0,Volume in litres,107126032.0,Still_Bulk,107126032.0,1.0628967289668678,0.7971725467251509
+China,2022,"Wine; still, in containers holding more than 10 litres",Export,146868.0,75606.0,Volume in litres,76315.0,Still_Bulk,76315.0,1.924497149970517,1.4433728624778879
+China,2021,Wine; sparkling,Import,113363814.0,11131113.0,Volume in litres,11231803.0,Sparkling,11231803.0,10.09310918291569,7.569831887186767
+China,2021,Wine; sparkling,Export,1465995.0,120246.0,Volume in litres,114481.0,Sparkling,114481.0,12.80557472419004,9.60418104314253
+China,2021,"Wine; still, in containers holding 2 litres or less",Import,1456632099.0,285248119.0,Volume in litres,286320845.0,Still_Bottled,286320845.0,5.087411987066467,3.8155589902998504
+China,2021,"Wine; still, in containers holding 2 litres or less",Export,80314790.0,3887698.0,Volume in litres,3915762.0,Still_Bottled,3915762.0,20.510641351542816,15.382981013657112
+China,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,12110619.0,4463088.0,Volume in litres,4485979.0,Still_2to10L,4485979.0,2.699660207950149,2.0247451559626115
+China,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,84437.0,79941.0,Volume in litres,79941.0,Still_2to10L,79941.0,1.0562414780900915,0.7921811085675686
+China,2021,"Wine; still, in containers holding more than 10 litres",Import,107409816.0,121305535.0,Volume in litres,122025471.0,Still_Bulk,122025471.0,0.8802245557404978,0.6601684168053734
+China,2021,"Wine; still, in containers holding more than 10 litres",Export,140468.0,95167.0,Volume in litres,95155.0,Still_Bulk,95155.0,1.4762019862329883,1.1071514896747412
+China,2020,Wine; sparkling,Import,71955141.0,9860202.0,Volume in litres,9916529.0,Sparkling,9916529.0,7.2560813365241,5.442061002393075
+China,2020,Wine; sparkling,Export,1518285.0,92767.0,Volume in litres,96728.0,Sparkling,96728.0,15.696437432801257,11.772328074600942
+China,2020,"Wine; still, in containers holding 2 litres or less",Import,1653099124.0,310486167.376,Volume in litres,311965947.0,Still_Bottled,311965947.0,5.2989729805349555,3.9742297354012166
+China,2020,"Wine; still, in containers holding 2 litres or less",Export,24280649.0,1337102.0,Volume in litres,1333150.0,Still_Bottled,1333150.0,18.212991036267486,13.659743277200615
+China,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,8418477.0,3457232.0,Volume in litres,3494184.0,Still_2to10L,3494184.0,2.409282682308659,1.8069620117314944
+China,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,147489.0,78370.0,Volume in litres,78389.0,Still_2to10L,78389.0,1.8815012310400694,1.4111259232800522
+China,2020,"Wine; still, in containers holding more than 10 litres",Import,91587241.0,103758663.503,Volume in litres,104610450.694,Still_Bulk,104610450.694,0.8755075653760953,0.6566306740320715
+China,2020,"Wine; still, in containers holding more than 10 litres",Export,66867.0,55208.0,Volume in litres,55307.0,Still_Bulk,55307.0,1.2090151337082105,0.9067613502811578
+China,2019,Wine; sparkling,Import,84274840.0,13545036.0,Volume in litres,13649115.0,Sparkling,13649115.0,6.174381269408309,4.6307859520562324
+China,2019,Wine; sparkling,Export,1973310.0,196285.0,Volume in litres,199238.0,Sparkling,199238.0,9.904285327096236,7.428213995322177
+China,2019,"Wine; still, in containers holding 2 litres or less",Import,2192008491.0,454115423.0,Volume in litres,456017870.0,Still_Bottled,456017870.0,4.806847790855214,3.6051358431414102
+China,2019,"Wine; still, in containers holding 2 litres or less",Export,80223576.0,3003848.0,Volume in litres,2991295.0,Still_Bottled,2991295.0,26.81901183266779,20.11425887450084
+China,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,13390211.0,4696183.0,Volume in litres,4744643.0,Still_2to10L,4744643.0,2.8221746082898123,2.1166309562173593
+China,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,193206.0,88286.0,Volume in litres,88648.0,Still_2to10L,88648.0,2.1794738741990796,1.6346054056493098
+China,2019,"Wine; still, in containers holding more than 10 litres",Import,144470146.0,137122802.0,Volume in litres,138073449.0,Still_Bulk,138073449.0,1.046328219120535,0.7847461643404012
+China,2019,"Wine; still, in containers holding more than 10 litres",Export,203060.0,124718.0,Volume in litres,125462.0,Still_Bulk,125462.0,1.6184980312764023,1.2138735234573017
+"China, Hong Kong SAR",2024,Wine; sparkling,Export,14780674.054,247138.0,Volume in litres,247138.0,Sparkling,247138.0,59.807370999198824,44.855528249399114
+"China, Hong Kong SAR",2024,Wine; sparkling,Import,67822301.251,2340219.0,Volume in litres,2340219.0,Sparkling,2340219.0,28.981177082572188,21.73588281192914
+"China, Hong Kong SAR",2024,"Wine; still, in containers holding 2 litres or less",Export,229830223.602,,No Quantity,,Still_Bottled,,,
+"China, Hong Kong SAR",2024,"Wine; still, in containers holding 2 litres or less",Import,759452140.077,26379024.0,Volume in litres,26379024.0,Still_Bottled,26379024.0,28.790001482882765,21.592501112162076
+"China, Hong Kong SAR",2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,96646.988,218.0,Volume in litres,218.0,Still_2to10L,218.0,443.3348073394495,332.50110550458714
+"China, Hong Kong SAR",2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,950090.109,407383.0,Volume in litres,407383.0,Still_2to10L,407383.0,2.332179077182897,1.7491343078871728
+"China, Hong Kong SAR",2024,"Wine; still, in containers holding more than 10 litres",Export,727.847,5.0,Volume in litres,5.0,Still_Bulk,5.0,145.5694,109.17705000000001
+"China, Hong Kong SAR",2024,"Wine; still, in containers holding more than 10 litres",Import,775398.657,98047.0,Volume in litres,98047.0,Still_Bulk,98047.0,7.908438371393311,5.931328778544984
+"China, Hong Kong SAR",2023,Wine; sparkling,Export,13424117.538,256019.0,Volume in litres,256019.0,Sparkling,256019.0,52.43406754186213,39.325550656396594
+"China, Hong Kong SAR",2023,Wine; sparkling,Import,84464190.202,2650634.0,Volume in litres,2650634.0,Sparkling,2650634.0,31.865655613713553,23.899241710285164
+"China, Hong Kong SAR",2023,"Wine; still, in containers holding 2 litres or less",Export,359024840.178,10733190.0,Volume in litres,10733190.0,Still_Bottled,10733190.0,33.44996596333429,25.08747447250072
+"China, Hong Kong SAR",2023,"Wine; still, in containers holding 2 litres or less",Import,883866572.758,28253045.0,Volume in litres,28253045.0,Still_Bottled,28253045.0,31.283940288843205,23.462955216632402
+"China, Hong Kong SAR",2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,312135.749,20984.0,Volume in litres,20984.0,Still_2to10L,20984.0,14.874940383149067,11.1562052873618
+"China, Hong Kong SAR",2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,667204.943,293370.0,Volume in litres,293370.0,Still_2to10L,293370.0,2.2742780209292017,1.7057085156969012
+"China, Hong Kong SAR",2023,"Wine; still, in containers holding more than 10 litres",Export,10263.764,42.0,Volume in litres,42.0,Still_Bulk,42.0,244.37533333333332,183.2815
+"China, Hong Kong SAR",2022,Wine; sparkling,Export,15501909.756,245694.0,Volume in litres,245694.0,Sparkling,245694.0,63.094376565972304,47.320782424479226
+"China, Hong Kong SAR",2022,Wine; sparkling,Import,82010153.114,2830556.0,Volume in litres,2830556.0,Sparkling,2830556.0,28.973160437030742,21.729870327773057
+"China, Hong Kong SAR",2022,"Wine; still, in containers holding 2 litres or less",Export,280003108.956,7903386.333,Volume in litres,7903386.333,Still_Bottled,7903386.333,35.42824520507974,26.571183903809803
+"China, Hong Kong SAR",2022,"Wine; still, in containers holding 2 litres or less",Import,936426477.179,31580566.0,Volume in litres,31580566.0,Still_Bottled,31580566.0,29.651985248744435,22.238988936558325
+"China, Hong Kong SAR",2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,93423.066,75.0,Volume in litres,75.0,Still_2to10L,75.0,1245.6408800000002,934.2306600000002
+"China, Hong Kong SAR",2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,1430551.812,554480.0,Volume in litres,554480.0,Still_2to10L,554480.0,2.579988118597605,1.9349910889482036
+"China, Hong Kong SAR",2022,"Wine; still, in containers holding more than 10 litres",Export,72811.088,7024.0,Volume in litres,7024.0,Still_Bulk,7024.0,10.366043280182232,7.774532460136674
+"China, Hong Kong SAR",2022,"Wine; still, in containers holding more than 10 litres",Import,9400.087,820.0,Volume in litres,820.0,Still_Bulk,820.0,11.463520731707316,8.597640548780486
+"China, Hong Kong SAR",2021,Wine; sparkling,Export,15840566.466,277764.0,Volume in litres,277764.0,Sparkling,277764.0,57.02886790944831,42.77165093208623
+"China, Hong Kong SAR",2021,Wine; sparkling,Import,107199009.682,3073643.0,Volume in litres,3073643.0,Sparkling,3073643.0,34.876857748931805,26.157643311698855
+"China, Hong Kong SAR",2021,"Wine; still, in containers holding 2 litres or less",Export,189075667.701,9860326.0,Volume in litres,9860326.0,Still_Bottled,9860326.0,19.17539721313474,14.381547909851054
+"China, Hong Kong SAR",2021,"Wine; still, in containers holding 2 litres or less",Import,1255169463.133,35539141.282,Volume in litres,35539141.282,Still_Bottled,35539141.282,35.31794573125274,26.488459298439558
+"China, Hong Kong SAR",2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,1315718.686,,No Quantity,,Still_2to10L,,,
+"China, Hong Kong SAR",2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,256728.892,15751.0,Volume in litres,15751.0,Still_2to10L,15751.0,16.29921224049267,12.224409180369502
+"China, Hong Kong SAR",2021,"Wine; still, in containers holding more than 10 litres",Export,51863.76,23315.0,Volume in litres,23315.0,Still_Bulk,23315.0,2.224480377439417,1.6683602830795627
+"China, Hong Kong SAR",2021,"Wine; still, in containers holding more than 10 litres",Import,182749.288,25641.0,Volume in litres,25641.0,Still_Bulk,25641.0,7.127229359229359,5.345422019422019
+"China, Hong Kong SAR",2020,Wine; sparkling,Export,8456910.677,166060.0,Volume in litres,166060.0,Sparkling,166060.0,50.92683775141515,38.19512831356136
+"China, Hong Kong SAR",2020,Wine; sparkling,Import,73321479.729,2119604.0,Volume in litres,2119604.0,Sparkling,2119604.0,34.59206518245861,25.94404888684396
+"China, Hong Kong SAR",2020,"Wine; still, in containers holding 2 litres or less",Export,106927821.272,6322547.458,Volume in litres,6322547.458,Still_Bottled,6322547.458,16.91214213611048,12.68410660208286
+"China, Hong Kong SAR",2020,"Wine; still, in containers holding 2 litres or less",Import,893339650.874,32317477.0,Volume in litres,32317477.0,Still_Bottled,32317477.0,27.6426173637874,20.731963022840553
+"China, Hong Kong SAR",2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,362197.73,,No Quantity,,Still_2to10L,,,
+"China, Hong Kong SAR",2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,629329.563,,No Quantity,,Still_2to10L,,,
+"China, Hong Kong SAR",2020,"Wine; still, in containers holding more than 10 litres",Export,159657.254,75568.0,Volume in litres,75568.0,Still_Bulk,75568.0,2.112762730256193,1.5845720476921445
+"China, Hong Kong SAR",2020,"Wine; still, in containers holding more than 10 litres",Import,883486.532,26158.0,Volume in litres,26158.0,Still_Bulk,26158.0,33.775003134796236,25.331252351097177
+"China, Hong Kong SAR",2019,Wine; sparkling,Export,7362158.5,207052.0,Volume in litres,207052.0,Sparkling,207052.0,35.55705088576783,26.66778816432587
+"China, Hong Kong SAR",2019,Wine; sparkling,Import,62986489.008,1979840.977,Volume in litres,1979840.977,Sparkling,1979840.977,31.813913208040447,23.860434906030335
+"China, Hong Kong SAR",2019,"Wine; still, in containers holding 2 litres or less",Export,184356531.723,10814650.222,Volume in litres,10814650.222,Still_Bottled,10814650.222,17.046925045062267,12.7851937837967
+"China, Hong Kong SAR",2019,"Wine; still, in containers holding 2 litres or less",Import,1056546594.918,38290790.182,Volume in litres,38290790.182,Still_Bottled,38290790.182,27.592708061027917,20.694531045770937
+"China, Hong Kong SAR",2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,323660.824,129893.01,No Quantity,,Still_2to10L,129893.01,2.4917493558737305,1.8688120169052977
+"China, Hong Kong SAR",2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,2584537.431,874951.226,Volume in litres,874951.226,Still_2to10L,874951.226,2.953921720660575,2.2154412904954315
+"China, Hong Kong SAR",2019,"Wine; still, in containers holding more than 10 litres",Export,800331.967,25998.0,Volume in litres,25998.0,Still_Bulk,25998.0,30.78436675898146,23.088275069236094
+"China, Hong Kong SAR",2019,"Wine; still, in containers holding more than 10 litres",Import,2196323.719,86694.196,Volume in litres,86694.196,Still_Bulk,86694.196,25.334149462554564,19.000612096915923
+"China, Macao SAR",2024,Wine; sparkling,Export,213798.099,1969.0,Volume in litres,1969.0,Sparkling,1969.0,108.58207160995428,81.43655370746572
+"China, Macao SAR",2024,Wine; sparkling,Re-Export,213798.099,1969.0,Volume in litres,1969.0,Sparkling,1969.0,108.58207160995428,81.43655370746572
+"China, Macao SAR",2024,Wine; sparkling,Import,6428225.494,159628.406,Volume in litres,159630.711,Sparkling,159630.711,40.26935326999828,30.202014952498708
+"China, Macao SAR",2024,"Wine; still, in containers holding 2 litres or less",Export,22933721.255,491275.0,Volume in litres,491275.0,Still_Bottled,491275.0,46.68204418095771,35.01153313571828
+"China, Macao SAR",2024,"Wine; still, in containers holding 2 litres or less",Re-Export,22933721.255,491275.0,Volume in litres,491275.0,Still_Bottled,491275.0,46.68204418095771,35.01153313571828
+"China, Macao SAR",2024,"Wine; still, in containers holding 2 litres or less",Import,222542581.557,6020326.544,Volume in litres,6020344.599,Still_Bottled,6020344.599,36.965090269743875,27.723817702307905
+"China, Macao SAR",2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,3172.213,647.0,Volume in litres,1620.256,Still_2to10L,1620.256,1.9578467847056267,1.46838508852922
+"China, Macao SAR",2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,3172.213,647.0,Volume in litres,1620.256,Still_2to10L,1620.256,1.9578467847056267,1.46838508852922
+"China, Macao SAR",2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,1236834.909,806593.0,Volume in litres,608495.105,Still_2to10L,608495.105,2.032612750434533,1.5244595628259
+"China, Macao SAR",2023,Wine; sparkling,Export,704742.378,9700.0,Volume in litres,9700.0,Sparkling,9700.0,72.65385340206186,54.49039005154639
+"China, Macao SAR",2023,Wine; sparkling,Re-Export,704742.378,9700.0,Volume in litres,9700.0,Sparkling,9700.0,72.65385340206186,54.49039005154639
+"China, Macao SAR",2023,Wine; sparkling,Import,7971032.775,153409.0,Volume in litres,153409.0,Sparkling,153409.0,51.95935554628477,38.96951665971358
+"China, Macao SAR",2023,"Wine; still, in containers holding 2 litres or less",Export,24366943.516,480251.0,Volume in litres,480251.0,Still_Bottled,480251.0,50.73793394704019,38.053450460280146
+"China, Macao SAR",2023,"Wine; still, in containers holding 2 litres or less",Re-Export,24366943.516,480251.0,Volume in litres,480251.0,Still_Bottled,480251.0,50.73793394704019,38.053450460280146
+"China, Macao SAR",2023,"Wine; still, in containers holding 2 litres or less",Import,391773260.114,9683503.0,Volume in litres,9683503.0,Still_Bottled,9683503.0,40.45780335008932,30.34335251256699
+"China, Macao SAR",2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,1074551.331,,No Quantity,,Still_2to10L,,,
+"China, Macao SAR",2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,22523.776,768.0,Volume in litres,11671.823,Still_2to10L,11671.823,1.9297564742028732,1.4473173556521548
+"China, Macao SAR",2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,22523.776,768.0,Volume in litres,11671.823,Still_2to10L,11671.823,1.9297564742028732,1.4473173556521548
+"China, Macao SAR",2022,Wine; sparkling,Re-Export,1514859.591,14324.0,Volume in litres,14324.0,Sparkling,14324.0,105.75674329796146,79.3175574734711
+"China, Macao SAR",2022,Wine; sparkling,Import,7319166.225,125109.0,Volume in litres,125109.0,Sparkling,125109.0,58.50231578063928,43.87673683547946
+"China, Macao SAR",2022,Wine; sparkling,Export,1514859.591,14324.0,Volume in litres,14324.0,Sparkling,14324.0,105.75674329796146,79.3175574734711
+"China, Macao SAR",2022,"Wine; still, in containers holding 2 litres or less",Re-Export,32583100.38,561757.0,Volume in litres,561757.0,Still_Bottled,561757.0,58.002126150630964,43.50159461297322
+"China, Macao SAR",2022,"Wine; still, in containers holding 2 litres or less",Import,359394080.612,8261159.0,Volume in litres,8261159.0,Still_Bottled,8261159.0,43.504074986572704,32.62805623992953
+"China, Macao SAR",2022,"Wine; still, in containers holding 2 litres or less",Export,32583100.38,561757.0,Volume in litres,561757.0,Still_Bottled,561757.0,58.002126150630964,43.50159461297322
+"China, Macao SAR",2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,222767.025,1422.0,Volume in litres,118861.687,Still_2to10L,118861.687,1.8741701436561302,1.4056276077420977
+"China, Macao SAR",2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,1527128.217,855958.0,Volume in litres,797199.014,Still_2to10L,797199.014,1.9156172927730188,1.436712969579764
+"China, Macao SAR",2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,222767.025,1422.0,Volume in litres,118861.687,Still_2to10L,118861.687,1.8741701436561302,1.4056276077420977
+"China, Macao SAR",2021,Wine; sparkling,Export,1206453.466,14896.0,Volume in litres,14896.0,Sparkling,14896.0,80.99177403329753,60.74383052497315
+"China, Macao SAR",2021,Wine; sparkling,Re-Export,1206453.466,14896.0,Volume in litres,14896.0,Sparkling,14896.0,80.99177403329753,60.74383052497315
+"China, Macao SAR",2021,Wine; sparkling,Import,13405388.934,178882.0,Volume in litres,178882.0,Sparkling,178882.0,74.93984265605259,56.20488199203945
+"China, Macao SAR",2021,"Wine; still, in containers holding 2 litres or less",Re-Export,30283506.04,702128.0,Volume in litres,702128.0,Still_Bottled,702128.0,43.131033144953626,32.34827485871522
+"China, Macao SAR",2021,"Wine; still, in containers holding 2 litres or less",Export,30283506.04,702128.0,Volume in litres,702128.0,Still_Bottled,702128.0,43.131033144953626,32.34827485871522
+"China, Macao SAR",2021,"Wine; still, in containers holding 2 litres or less",Import,211332185.518,3844458.0,Volume in litres,3844458.0,Still_Bottled,3844458.0,54.970605874222066,41.22795440566655
+"China, Macao SAR",2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,1225388.872,,No Quantity,,Still_2to10L,,,
+"China, Macao SAR",2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,21268.418,5133.0,Volume in litres,11010.854,Still_2to10L,11010.854,1.9315865962803613,1.448689947210271
+"China, Macao SAR",2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,21268.418,5133.0,Volume in litres,11010.854,Still_2to10L,11010.854,1.9315865962803613,1.448689947210271
+"China, Macao SAR",2020,Wine; sparkling,Import,9281786.793,145420.0,Volume in litres,145420.0,Sparkling,145420.0,63.82744321963966,47.870582414729746
+"China, Macao SAR",2020,Wine; sparkling,Export,87045.61,1903.0,Volume in litres,1903.0,Sparkling,1903.0,45.74125591171834,34.30594193378876
+"China, Macao SAR",2020,Wine; sparkling,Re-Export,87045.61,1903.0,Volume in litres,1903.0,Sparkling,1903.0,45.74125591171834,34.30594193378876
+"China, Macao SAR",2020,"Wine; still, in containers holding 2 litres or less",Import,74881975.84,2458601.529,Volume in litres,2531792.422,Still_Bottled,2531792.422,29.576664812373,22.18249860927975
+"China, Macao SAR",2020,"Wine; still, in containers holding 2 litres or less",Re-Export,13467728.303,291386.0,Volume in litres,291386.0,Still_Bottled,291386.0,46.21954487518275,34.66465865638706
+"China, Macao SAR",2020,"Wine; still, in containers holding 2 litres or less",Export,13467728.303,291386.0,Volume in litres,291386.0,Still_Bottled,291386.0,46.21954487518275,34.66465865638706
+"China, Macao SAR",2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,903903.822,575570.0,Volume in litres,485333.307,Still_2to10L,485333.307,1.8624392947340005,1.3968294710505003
+"China, Macao SAR",2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,27254.004,2694.0,Weight in kilograms,2694.0,Still_2to10L,2694.0,10.116556792873052,7.587417594654789
+"China, Macao SAR",2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,27254.004,2694.0,Weight in kilograms,2694.0,Still_2to10L,2694.0,10.116556792873052,7.587417594654789
+"China, Macao SAR",2019,Wine; sparkling,Import,5879760.042,,No Quantity,,Sparkling,,,
+"China, Macao SAR",2019,Wine; sparkling,Re-Export,296393.469,,No Quantity,,Sparkling,,,
+"China, Macao SAR",2019,Wine; sparkling,Export,296393.469,,No Quantity,,Sparkling,,,
+"China, Macao SAR",2019,"Wine; still, in containers holding 2 litres or less",Re-Export,19641860.061,,No Quantity,,Still_Bottled,,,
+"China, Macao SAR",2019,"Wine; still, in containers holding 2 litres or less",Export,19641860.061,,No Quantity,,Still_Bottled,,,
+"China, Macao SAR",2019,"Wine; still, in containers holding 2 litres or less",Import,109928865.599,29140784.238,Volume in litres,25642292.654,Still_Bottled,25642292.654,4.287013921972845,3.2152604414796335
+"China, Macao SAR",2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,1524287.797,,Volume in litres,760837.178,Still_2to10L,760837.178,2.003434954383893,1.5025762157879199
+Germany,2024,Wine; sparkling,Export,161333265.888,30472038.044,Volume in litres,30472036.0,Sparkling,30472036.0,5.294469522417209,3.970852141812907
+Germany,2024,Wine; sparkling,Import,479881805.438,56822544.0,Volume in litres,56822544.0,Sparkling,56822544.0,8.445271395064607,6.333953546298455
+Germany,2024,"Wine; still, in containers holding 2 litres or less",Export,890788630.313,,No Quantity,,Still_Bottled,,,
+Germany,2024,"Wine; still, in containers holding 2 litres or less",Import,1628634270.362,476781556.317,Volume in litres,476781556.0,Still_Bottled,476781556.0,3.41589193178018,2.561918948835135
+Germany,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,51637703.679,,No Quantity,,Still_2to10L,,,
+Germany,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,67630272.209,,No Quantity,,Still_2to10L,,,
+Germany,2024,"Wine; still, in containers holding more than 10 litres",Export,12440409.089,,No Quantity,,Still_Bulk,,,
+Germany,2024,"Wine; still, in containers holding more than 10 litres",Import,510060356.425,708299781.0,Volume in litres,708299781.0,Still_Bulk,708299781.0,0.720119319682523,0.5400894897618922
+Germany,2023,Wine; sparkling,Export,151388055.099,31905119.0,Volume in litres,31905119.0,Sparkling,31905119.0,4.744945633927897,3.5587092254459227
+Germany,2023,Wine; sparkling,Import,538005349.159,67607215.408,Volume in litres,67607215.0,Sparkling,67607215.0,7.957809668080545,5.968357251060409
+Germany,2023,"Wine; still, in containers holding 2 litres or less",Import,1774496184.403,497260013.909,Volume in litres,497260013.0,Still_Bottled,497260013.0,3.5685479186177798,2.676410938963335
+Germany,2023,"Wine; still, in containers holding 2 litres or less",Export,914462177.17,244580250.0,Volume in litres,244580250.0,Still_Bottled,244580250.0,3.7389044175480235,2.8041783131610174
+Germany,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,78632340.964,,No Quantity,,Still_2to10L,,,
+Germany,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,54858408.884,,No Quantity,,Still_2to10L,,,
+Germany,2023,"Wine; still, in containers holding more than 10 litres",Import,524191200.754,,No Quantity,,Still_Bulk,,,
+Germany,2023,"Wine; still, in containers holding more than 10 litres",Export,17429497.626,11864027.0,Volume in litres,11864027.0,Still_Bulk,11864027.0,1.469104683089477,1.1018285123171077
+Germany,2022,Wine; sparkling,Export,143955989.401,34804872.509,Volume in litres,34804872.0,Sparkling,34804872.0,4.136087309874319,3.102065482405739
+Germany,2022,Wine; sparkling,Import,515618879.152,70355052.581,Volume in litres,70355051.0,Sparkling,70355051.0,7.3288111062843235,5.496608329713243
+Germany,2022,"Wine; still, in containers holding 2 litres or less",Export,890511200.523,259927272.307,Volume in litres,259927272.0,Still_Bottled,259927272.0,3.426001410590729,2.5695010579430466
+Germany,2022,"Wine; still, in containers holding 2 litres or less",Import,1865428337.729,534727240.659,Volume in litres,534727231.0,Still_Bottled,534727231.0,3.488560577400256,2.616420433050192
+Germany,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,73278409.719,44396434.0,Volume in litres,44396434.0,Still_2to10L,44396434.0,1.650547197529423,1.2379103981470672
+Germany,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,50859932.122,29807608.697,Volume in litres,29807525.38,Still_2to10L,29807525.38,1.7062782459668915,1.2797086844751686
+Germany,2022,"Wine; still, in containers holding more than 10 litres",Export,21048455.011,,No Quantity,,Still_Bulk,,,
+Germany,2022,"Wine; still, in containers holding more than 10 litres",Import,521979012.766,741101772.0,Volume in litres,741101772.0,Still_Bulk,741101772.0,0.7043283830739511,0.5282462873054633
+Germany,2021,Wine; sparkling,Import,546066890.487,75273528.488,Volume in litres,75273528.0,Sparkling,75273528.0,7.2544346597784015,5.440825994833801
+Germany,2021,Wine; sparkling,Export,141761558.318,34240070.0,Volume in litres,34240070.0,Sparkling,34240070.0,4.140223963268767,3.105167972451575
+Germany,2021,"Wine; still, in containers holding 2 litres or less",Import,2249989620.705,,No Quantity,,Still_Bottled,,,
+Germany,2021,"Wine; still, in containers holding 2 litres or less",Export,950290407.81,274703674.47,Volume in litres,274703674.47,Still_Bottled,274703674.47,3.459329073931917,2.5944968054489377
+Germany,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,44996598.352,21262447.215,Volume in litres,21262447.215,Still_2to10L,21262447.215,2.1162473866251994,1.5871855399688997
+Germany,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,92469172.857,54853420.0,Volume in litres,54853420.0,Still_2to10L,54853420.0,1.6857503662852744,1.2643127747139558
+Germany,2021,"Wine; still, in containers holding more than 10 litres",Import,557530317.441,820973540.0,Volume in litres,820973540.0,Still_Bulk,820973540.0,0.6791087535427756,0.5093315651570817
+Germany,2021,"Wine; still, in containers holding more than 10 litres",Export,14474052.956,9161041.0,Volume in litres,9161041.0,Still_Bulk,9161041.0,1.579957229314878,1.1849679219861584
+Germany,2020,Wine; sparkling,Import,437095865.937,63019278.608,Volume in litres,63019245.0,Sparkling,63019245.0,6.935910862419885,5.2019331468149135
+Germany,2020,Wine; sparkling,Export,101155507.582,27599717.872,Volume in litres,27599716.0,Sparkling,27599716.0,3.665092335805195,2.748819251853896
+Germany,2020,"Wine; still, in containers holding 2 litres or less",Import,1957813340.345,544515571.511,Volume in litres,544515568.968,Still_Bottled,544515568.968,3.595513979619665,2.696635484714749
+Germany,2020,"Wine; still, in containers holding 2 litres or less",Export,842484383.367,268278010.0,Volume in litres,268278010.0,Still_Bottled,268278010.0,3.140340810515927,2.3552556078869453
+Germany,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,99079750.175,,No Quantity,,Still_2to10L,,,
+Germany,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,43019352.704,22527028.437,Volume in litres,22527028.437,Still_2to10L,22527028.437,1.909677205065447,1.4322579037990852
+Germany,2020,"Wine; still, in containers holding more than 10 litres",Import,582369509.485,824763701.0,Volume in litres,824763701.0,Still_Bulk,824763701.0,0.7061046803816601,0.529578510286245
+Germany,2020,"Wine; still, in containers holding more than 10 litres",Export,12450937.167,10803788.0,Volume in litres,10803788.0,Still_Bulk,10803788.0,1.152460337707478,0.8643452532806085
+Germany,2019,Wine; sparkling,Export,135427502.914,31083041.514,Volume in litres,31083041.0,Sparkling,31083041.0,4.35695796025878,3.267718470194085
+Germany,2019,Wine; sparkling,Import,464185996.719,67469977.488,Volume in litres,67469977.0,Sparkling,67469977.0,6.879889654016037,5.159917240512028
+Germany,2019,"Wine; still, in containers holding 2 litres or less",Export,933353164.232,283852643.0,Volume in litres,283852643.0,Still_Bottled,283852643.0,3.288160907601625,2.4661206807012186
+Germany,2019,"Wine; still, in containers holding 2 litres or less",Import,1874642146.455,525145330.803,Volume in litres,525145330.49,Still_Bottled,525145330.49,3.5697587650752185,2.677319073806414
+Germany,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,98902306.956,59271504.363,No Quantity,,Still_2to10L,59271504.363,1.668631630307318,1.2514737227304886
+Germany,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,51675831.298,24600551.029,Volume in litres,24600551.029,Still_2to10L,24600551.029,2.1005964962769617,1.5754473722077211
+Germany,2019,"Wine; still, in containers holding more than 10 litres",Export,13195020.502,11420616.0,Volume in litres,11420616.0,Still_Bulk,11420616.0,1.1553685459698497,0.8665264094773872
+Germany,2019,"Wine; still, in containers holding more than 10 litres",Import,576863929.324,869109709.0,Volume in litres,869109709.0,Still_Bulk,869109709.0,0.6637412093666992,0.4978059070250244
+Japan,2024,Wine; sparkling,Export,382383.641,22101.0,Volume in litres,22101.0,Sparkling,22101.0,17.30164431473689,12.976233236052668
+Japan,2024,Wine; sparkling,Import,645629732.963,39750362.0,Volume in litres,39750362.0,Sparkling,39750362.0,16.242109517468045,12.181582138101033
+Japan,2024,"Wine; still, in containers holding 2 litres or less",Import,931982274.547,,No Quantity,,Still_Bottled,,,
+Japan,2024,"Wine; still, in containers holding 2 litres or less",Export,3617700.711,217498.0,Volume in litres,217498.0,Still_Bottled,217498.0,16.633259666755556,12.474944750066667
+Japan,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,129255.977,72710.0,Volume in litres,72710.0,Still_2to10L,72710.0,1.7776918855728234,1.3332689141796177
+Japan,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,26697057.317,16042225.0,Volume in litres,16042225.0,Still_2to10L,16042225.0,1.664174222528359,1.248130666896269
+Japan,2024,"Wine; still, in containers holding more than 10 litres",Export,48326.474,19660.104,Volume in litres,18878.0,Still_Bulk,18878.0,2.5599361161139953,1.9199520870854965
+Japan,2024,"Wine; still, in containers holding more than 10 litres",Import,37487008.012,34151734.0,Volume in litres,34151734.0,Still_Bulk,34151734.0,1.0976604588217982,0.8232453441163486
+Japan,2023,Wine; sparkling,Export,276914.004,11604.0,Volume in litres,11604.0,Sparkling,11604.0,23.86366804550155,17.897751034126163
+Japan,2023,Wine; sparkling,Import,742589017.059,39806375.0,Volume in litres,39806375.0,Sparkling,39806375.0,18.65502741857303,13.991270563929774
+Japan,2023,"Wine; still, in containers holding 2 litres or less",Export,3513243.21,183133.337,Volume in litres,183048.0,Still_Bottled,183048.0,19.193016094139242,14.394762070604433
+Japan,2023,"Wine; still, in containers holding 2 litres or less",Import,978969363.184,146891100.0,Volume in litres,146891100.0,Still_Bottled,146891100.0,6.664592770998379,4.998444578248784
+Japan,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,24668301.476,,No Quantity,,Still_2to10L,,,
+Japan,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,140820.138,75040.0,Volume in litres,75040.0,Still_2to10L,75040.0,1.8766009861407251,1.4074507396055438
+Japan,2023,"Wine; still, in containers holding more than 10 litres",Export,45098.888,18324.0,Volume in litres,18324.0,Still_Bulk,18324.0,2.4611923160881903,1.8458942370661426
+Japan,2023,"Wine; still, in containers holding more than 10 litres",Import,35568487.669,31797242.0,Volume in litres,31797242.0,Still_Bulk,31797242.0,1.1186029174794467,0.838952188109585
+Japan,2022,Wine; sparkling,Import,734795405.968,44428050.0,Volume in litres,44428050.0,Sparkling,44428050.0,16.53899745696694,12.404248092725204
+Japan,2022,Wine; sparkling,Export,264254.678,18877.0,Volume in litres,18877.0,Sparkling,18877.0,13.998764528261907,10.49907339619643
+Japan,2022,"Wine; still, in containers holding 2 litres or less",Import,1059434616.118,165923253.0,Volume in litres,165923253.0,Still_Bottled,165923253.0,6.3850882679958065,4.788816200996855
+Japan,2022,"Wine; still, in containers holding 2 litres or less",Export,4519843.219,209744.0,Volume in litres,209744.0,Still_Bottled,209744.0,21.549332610229612,16.16199945767221
+Japan,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,29133574.421,16148724.0,Volume in litres,16148724.0,Still_2to10L,16148724.0,1.8040790356563157,1.3530592767422367
+Japan,2022,"Wine; still, in containers holding more than 10 litres",Import,43044455.042,39038562.0,Volume in litres,39038562.0,Still_Bulk,39038562.0,1.1026137448915256,0.8269603086686442
+Japan,2022,"Wine; still, in containers holding more than 10 litres",Export,137895.481,37129.0,Volume in litres,37129.0,Still_Bulk,37129.0,3.713956233671793,2.785467175253845
+Japan,2021,Wine; sparkling,Export,502922.777,27212.0,Volume in litres,27212.0,Sparkling,27212.0,18.481654306923417,13.861240730192563
+Japan,2021,Wine; sparkling,Import,652265649.811,38601377.0,Volume in litres,38601377.0,Sparkling,38601377.0,16.89747103609801,12.673103277073508
+Japan,2021,"Wine; still, in containers holding 2 litres or less",Export,5435051.961,321410.0,Volume in litres,321410.0,Still_Bottled,321410.0,16.91002756914844,12.68252067686133
+Japan,2021,"Wine; still, in containers holding 2 litres or less",Import,988426503.248,156653868.427,Volume in litres,156652280.0,Still_Bottled,156652280.0,6.30968475688959,4.732263567667193
+Japan,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,25139050.323,,Volume in litres,13451855.0,Still_2to10L,13451855.0,1.8688166296023856,1.4016124722017893
+Japan,2021,"Wine; still, in containers holding more than 10 litres",Export,2368.925,440.0,Volume in litres,440.0,Still_Bulk,440.0,5.383920454545455,4.037940340909092
+Japan,2021,"Wine; still, in containers holding more than 10 litres",Import,39601765.676,35055080.0,Volume in litres,35055080.0,Still_Bulk,35055080.0,1.1297011924092029,0.8472758943069021
+Japan,2020,Wine; sparkling,Import,540471987.772,35369751.0,Volume in litres,35369751.0,Sparkling,35369751.0,15.280627442698139,11.460470582023603
+Japan,2020,Wine; sparkling,Export,142824.996,9226.0,Volume in litres,9226.0,Sparkling,9226.0,15.480706264903535,11.610529698677652
+Japan,2020,"Wine; still, in containers holding 2 litres or less",Import,944606083.286,164514451.941,Volume in litres,164513788.0,Still_Bottled,164513788.0,5.741804956104956,4.306353717078717
+Japan,2020,"Wine; still, in containers holding 2 litres or less",Export,2964139.001,203128.0,Volume in litres,203128.0,Still_Bottled,203128.0,14.592468793076288,10.944351594807216
+Japan,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,22925225.454,12673819.0,Volume in litres,12673819.0,Still_2to10L,12673819.0,1.8088648302457215,1.356648622684291
+Japan,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,35635.933,11700.0,Volume in litres,11700.0,Still_2to10L,11700.0,3.045806239316239,2.2843546794871794
+Japan,2020,"Wine; still, in containers holding more than 10 litres",Import,49062882.181,43531643.0,Volume in litres,43531643.0,Still_Bulk,43531643.0,1.1270624952290453,0.845296871421784
+Japan,2020,"Wine; still, in containers holding more than 10 litres",Export,5325.233,1900.0,Volume in litres,1900.0,Still_Bulk,1900.0,2.8027542105263157,2.1020656578947365
+Japan,2019,Wine; sparkling,Export,160852.467,10331.0,Volume in litres,10331.0,Sparkling,10331.0,15.569883554350984,11.677412665763239
+Japan,2019,Wine; sparkling,Import,694203069.529,43828058.0,Volume in litres,43828058.0,Sparkling,43828058.0,15.839238634050362,11.879428975537772
+Japan,2019,"Wine; still, in containers holding 2 litres or less",Export,1341920.147,104690.0,Volume in litres,104690.0,Still_Bottled,104690.0,12.818035600343874,9.613526700257905
+Japan,2019,"Wine; still, in containers holding 2 litres or less",Import,1021054046.572,176984187.0,Volume in litres,176984187.0,Still_Bottled,176984187.0,5.76918234266884,4.326886757001629
+Japan,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,40524.989,13600.0,Volume in litres,13600.0,Still_2to10L,13600.0,2.9797786029411766,2.234833952205882
+Japan,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,24783447.361,13839080.0,Volume in litres,13839080.0,Still_2to10L,13839080.0,1.7908305581729422,1.3431229186297067
+Japan,2019,"Wine; still, in containers holding more than 10 litres",Import,55605267.595,46359247.0,Volume in litres,46359247.0,Still_Bulk,46359247.0,1.1994428553811498,0.8995821415358624
+Netherlands,2024,Wine; sparkling,Export,108191133.466,13241069.712,Volume in litres,9815819.0,Sparkling,9815819.0,11.02211985225074,8.266589889188054
+Netherlands,2024,Wine; sparkling,Import,201684530.664,319503319.859,Volume in litres,21993485.0,Sparkling,21993485.0,9.170194294537678,6.877645720903258
+Netherlands,2024,"Wine; still, in containers holding 2 litres or less",Export,358313263.436,77731921.182,Volume in litres,68078134.0,Still_Bottled,68078134.0,5.263265051242445,3.947448788431833
+Netherlands,2024,"Wine; still, in containers holding 2 litres or less",Import,1302340463.023,3948585335.675,Volume in litres,340843804.0,Still_Bottled,340843804.0,3.820930431298085,2.865697823473564
+Netherlands,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,23064304.513,8656632.406,Volume in litres,8662331.0,Still_2to10L,8662331.0,2.66259792116002,1.996948440870015
+Netherlands,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,43194628.454,32480542.232,Volume in litres,20457781.0,Still_2to10L,20457781.0,2.111403404601897,1.5835525534514228
+Netherlands,2024,"Wine; still, in containers holding more than 10 litres",Export,4635549.762,1521994.323,Volume in litres,1500135.0,Still_Bulk,1500135.0,3.0900884000439963,2.3175663000329974
+Netherlands,2024,"Wine; still, in containers holding more than 10 litres",Import,16396404.68,12132393.374,Volume in litres,6735667.0,Still_Bulk,6735667.0,2.4342659279326013,1.8256994459494509
+Netherlands,2023,Wine; sparkling,Export,116847603.744,14114452.849,Volume in litres,10402846.0,Sparkling,10402846.0,11.232272759204548,8.424204569403411
+Netherlands,2023,Wine; sparkling,Import,189734016.223,36089963.028,Volume in litres,21500906.0,Sparkling,21500906.0,8.824466104963204,6.618349578722403
+Netherlands,2023,"Wine; still, in containers holding 2 litres or less",Export,393026044.535,80168870.59,Volume in litres,78013786.6,Still_Bottled,78013786.6,5.037904986591179,3.778428739943384
+Netherlands,2023,"Wine; still, in containers holding 2 litres or less",Import,1348815968.109,730028664.118,Volume in litres,383619068.235,Still_Bottled,383619068.235,3.516029519373977,2.6370221395304827
+Netherlands,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,40052298.159,,No Quantity,,Still_2to10L,,,
+Netherlands,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,19493856.757,7119899.615,Volume in litres,7086908.0,Still_2to10L,7086908.0,2.7506857372778084,2.063014302958356
+Netherlands,2023,"Wine; still, in containers holding more than 10 litres",Export,6353157.048,1989552.671,Volume in litres,1983854.0,Still_Bulk,1983854.0,3.2024317555626576,2.4018238166719934
+Netherlands,2023,"Wine; still, in containers holding more than 10 litres",Import,21085638.787,10843922.949,Volume in litres,10368773.0,Still_Bulk,10368773.0,2.0335712612283054,1.5251784459212292
+Netherlands,2022,Wine; sparkling,Export,120113396.216,14219484.857,Volume in litres,9660085.0,Sparkling,9660085.0,12.433989578352572,9.325492183764428
+Netherlands,2022,Wine; sparkling,Import,182592726.945,196677067.208,Volume in litres,21937186.0,Sparkling,21937186.0,8.323434324940308,6.242575743705231
+Netherlands,2022,"Wine; still, in containers holding 2 litres or less",Export,368686870.071,80178895.863,Volume in litres,79080499.0,Still_Bottled,79080499.0,4.662171770957085,3.4966288282178137
+Netherlands,2022,"Wine; still, in containers holding 2 litres or less",Import,1335332117.58,2988539982.672,Volume in litres,391637476.0,Still_Bottled,391637476.0,3.4096127143358466,2.557209535751885
+Netherlands,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,17015373.532,5131876.761,Volume in litres,5243993.0,Still_2to10L,5243993.0,3.2447361260779717,2.433552094558479
+Netherlands,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,25440083.752,36011802.605,Volume in litres,14124060.0,Still_2to10L,14124060.0,1.8011877429011205,1.3508908071758403
+Netherlands,2022,"Wine; still, in containers holding more than 10 litres",Export,10932895.144,2277039.212,Volume in litres,2446395.0,Still_Bulk,2446395.0,4.468981968978844,3.351736476734133
+Netherlands,2022,"Wine; still, in containers holding more than 10 litres",Import,23137079.035,8677242.113,Volume in litres,12095210.0,Still_Bulk,12095210.0,1.9129125525724646,1.4346844144293485
+Netherlands,2021,Wine; sparkling,Export,132802293.745,8470079.754,Volume in litres,8626708.0,Sparkling,8626708.0,15.394318869376361,11.54573915203227
+Netherlands,2021,Wine; sparkling,Import,207723412.748,23296859.724,Volume in litres,23718892.0,Sparkling,23718892.0,8.757719911537183,6.5682899336528875
+Netherlands,2021,"Wine; still, in containers holding 2 litres or less",Export,419776362.309,91429947.479,Volume in litres,93902009.0,Still_Bottled,93902009.0,4.4703661484920945,3.352774611369071
+Netherlands,2021,"Wine; still, in containers holding 2 litres or less",Import,1427472535.179,408688257.946,Volume in litres,419702253.0,Still_Bottled,419702253.0,3.4011552832407594,2.5508664624305695
+Netherlands,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,25153530.959,7443725.0,Volume in litres,7643520.0,Still_2to10L,7643520.0,3.290830789871682,2.4681230924037614
+Netherlands,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,21659452.333,12213480.366,Volume in litres,12537739.0,Still_2to10L,12537739.0,1.7275405344615964,1.2956554008461973
+Netherlands,2021,"Wine; still, in containers holding more than 10 litres",Export,13908152.001,2777336.621,Volume in litres,2852438.279,Still_Bulk,2852438.279,4.875881838844163,3.6569113791331223
+Netherlands,2021,"Wine; still, in containers holding more than 10 litres",Import,42094896.18,33847506.824,Volume in litres,34750400.0,Still_Bulk,34750400.0,1.2113499752520833,0.9085124814390625
+Netherlands,2020,Wine; sparkling,Export,90895151.29,6424022.745,Volume in litres,6542899.0,Sparkling,6542899.0,13.892183157649233,10.419137368236925
+Netherlands,2020,Wine; sparkling,Import,152720539.457,18566947.0,Volume in litres,18906039.0,Sparkling,18906039.0,8.077870751086465,6.058403063314849
+Netherlands,2020,"Wine; still, in containers holding 2 litres or less",Export,317260726.433,73488892.278,Volume in litres,75492258.0,Still_Bottled,75492258.0,4.20255977020849,3.1519198276563674
+Netherlands,2020,"Wine; still, in containers holding 2 litres or less",Import,1262868832.644,384410277.019,Volume in litres,394787862.924,Still_Bottled,394787862.924,3.1988542486857376,2.3991406865143032
+Netherlands,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,23841884.058,7280959.138,Volume in litres,7476377.0,Still_2to10L,7476377.0,3.1889622551136734,2.3917216913352553
+Netherlands,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,20107082.463,12488332.59,Volume in litres,12820498.283,Still_2to10L,12820498.283,1.5683542105116164,1.1762656578837123
+Netherlands,2020,"Wine; still, in containers holding more than 10 litres",Export,6115353.934,3359344.255,Volume in litres,3449578.0,Still_Bulk,3449578.0,1.7727832024670844,1.3295874018503133
+Netherlands,2020,"Wine; still, in containers holding more than 10 litres",Import,50830173.153,40610636.901,Volume in litres,41693071.053,Still_Bulk,41693071.053,1.2191515728928906,0.9143636796696679
+Netherlands,2019,Wine; sparkling,Export,92595372.102,6463676.193,Volume in litres,6582345.0,Sparkling,6582345.0,14.06723167837602,10.550423758782015
+Netherlands,2019,Wine; sparkling,Import,135901218.937,18692754.462,Volume in litres,19033554.0,Sparkling,19033554.0,7.1400863410480255,5.355064755786019
+Netherlands,2019,"Wine; still, in containers holding 2 litres or less",Export,231613490.211,45882670.885,Volume in litres,47150866.0,Still_Bottled,47150866.0,4.912178923945957,3.6841341929594678
+Netherlands,2019,"Wine; still, in containers holding 2 litres or less",Import,1122682063.973,342333741.386,Volume in litres,351581971.0,Still_Bottled,351581971.0,3.19322990533266,2.394922428999495
+Netherlands,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,13416248.711,4232848.889,Volume in litres,4346504.0,Still_2to10L,4346504.0,3.0866757999072356,2.315006849930427
+Netherlands,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,20526476.475,11899638.642,Volume in litres,12218427.0,Still_2to10L,12218427.0,1.6799606426424614,1.259970481981846
+Netherlands,2019,"Wine; still, in containers holding more than 10 litres",Export,9465234.595,4024366.519,Volume in litres,4132683.977,Still_Bulk,4132683.977,2.2903359288243976,1.7177519466182982
+Netherlands,2019,"Wine; still, in containers holding more than 10 litres",Import,54834481.845,38555229.446,Volume in litres,39582671.0,Still_Bulk,39582671.0,1.3853153528977364,1.0389865146733024
+United Kingdom,2024,Wine; sparkling,Import,1290885344.836,166937170.0,Volume in litres,166796636.0,Sparkling,166796636.0,7.739276857094408,5.804457642820806
+United Kingdom,2024,Wine; sparkling,Export,66446640.319,1857668.0,Volume in litres,1805733.756,Sparkling,1805733.756,36.797584415872215,27.59818831190416
+United Kingdom,2024,"Wine; still, in containers holding 2 litres or less",Import,2943796721.198,,No Quantity,,Still_Bottled,,,
+United Kingdom,2024,"Wine; still, in containers holding 2 litres or less",Export,411682667.859,,No Quantity,,Still_Bottled,,,
+United Kingdom,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,6886175.24,,No Quantity,,Still_2to10L,,,
+United Kingdom,2024,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,54652454.813,,No Quantity,,Still_2to10L,,,
+United Kingdom,2024,"Wine; still, in containers holding more than 10 litres",Export,2443551.171,,No Quantity,,Still_Bulk,,,
+United Kingdom,2024,"Wine; still, in containers holding more than 10 litres",Import,670938090.384,,No Quantity,,Still_Bulk,,,
+United Kingdom,2023,Wine; sparkling,Export,97190211.421,1842291.695,Volume in litres,1799862.0,Sparkling,1799862.0,53.99870180102697,40.49902635077022
+United Kingdom,2023,Wine; sparkling,Import,1320372565.615,163324470.0,Volume in litres,163024083.0,Sparkling,163024083.0,8.099248536273011,6.074436402204759
+United Kingdom,2023,"Wine; still, in containers holding 2 litres or less",Export,514188572.592,23012093.479,No Quantity,,Still_Bottled,23012093.479,22.34427619813164,16.758207148598732
+United Kingdom,2023,"Wine; still, in containers holding 2 litres or less",Import,3088674123.119,,No Quantity,,Still_Bottled,,,
+United Kingdom,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,9450997.189,,No Quantity,,Still_2to10L,,,
+United Kingdom,2023,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,52649612.521,,No Quantity,,Still_2to10L,,,
+United Kingdom,2023,"Wine; still, in containers holding more than 10 litres",Import,588293086.464,,No Quantity,,Still_Bulk,,,
+United Kingdom,2023,"Wine; still, in containers holding more than 10 litres",Export,3127126.558,,No Quantity,,Still_Bulk,,,
+United Kingdom,2022,Wine; sparkling,Import,1254076891.221,167844164.0,Volume in litres,168087047.0,Sparkling,168087047.0,7.460877644075691,5.595658233056769
+United Kingdom,2022,Wine; sparkling,Export,75551501.496,1951221.911,Volume in litres,1876404.157,Sparkling,1876404.157,40.26398109072192,30.197985818041438
+United Kingdom,2022,"Wine; still, in containers holding 2 litres or less",Import,3069481911.799,637338318.371,No Quantity,,Still_Bottled,637338318.371,4.816095036690118,3.6120712775175887
+United Kingdom,2022,"Wine; still, in containers holding 2 litres or less",Export,588337399.152,,Volume in litres,26734247.988,Still_Bottled,26734247.988,22.006880441001464,16.505160330751096
+United Kingdom,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,8846122.024,,No Quantity,,Still_2to10L,,,
+United Kingdom,2022,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,46674382.829,23783814.879,Volume in litres,23823782.861,Still_2to10L,23823782.861,1.9591507822801257,1.4693630867100942
+United Kingdom,2022,"Wine; still, in containers holding more than 10 litres",Import,657208622.674,,No Quantity,,Still_Bulk,,,
+United Kingdom,2022,"Wine; still, in containers holding more than 10 litres",Export,8200103.424,,No Quantity,,Still_Bulk,,,
+United Kingdom,2021,Wine; sparkling,Re-Export,23333.541,203.0,Volume in litres,169.0,Sparkling,169.0,138.0682899408284,103.5512174556213
+United Kingdom,2021,Wine; sparkling,Export,53503953.464,1470055.035,Volume in litres,1381331.794,Sparkling,1381331.794,38.733600208437686,29.050200156328266
+United Kingdom,2021,Wine; sparkling,Import,1055654558.687,172644261.0,Volume in litres,175617403.0,Sparkling,175617403.0,6.011104484257748,4.508328363193311
+United Kingdom,2021,"Wine; still, in containers holding 2 litres or less",Import,3071341317.362,,No Quantity,,Still_Bottled,,,
+United Kingdom,2021,"Wine; still, in containers holding 2 litres or less",Export,575817554.798,33162563.532,Volume in litres,31685069.765,Still_Bottled,31685069.765,18.173150921512576,13.629863191134433
+United Kingdom,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,8281774.604,,No Quantity,,Still_2to10L,,,
+United Kingdom,2021,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,29019309.947,,No Quantity,,Still_2to10L,,,
+United Kingdom,2021,"Wine; still, in containers holding more than 10 litres",Export,3902226.367,,No Quantity,,Still_Bulk,,,
+United Kingdom,2021,"Wine; still, in containers holding more than 10 litres",Import,670097927.467,,No Quantity,,Still_Bulk,,,
+United Kingdom,2020,Wine; sparkling,Export,49582199.587,2843897.447,Volume in litres,2924078.232,Sparkling,2924078.232,16.95652292896656,12.71739219672492
+United Kingdom,2020,Wine; sparkling,Import,814052215.678,144939987.0,Volume in litres,148958788.0,Sparkling,148958788.0,5.4649492427261155,4.098711932044587
+United Kingdom,2020,"Wine; still, in containers holding 2 litres or less",Export,552748881.602,,No Quantity,,Still_Bottled,,,
+United Kingdom,2020,"Wine; still, in containers holding 2 litres or less",Import,2814021147.069,720959221.963,Volume in litres,726104822.77,Still_Bottled,726104822.77,3.8755026255491014,2.906626969161826
+United Kingdom,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,3837980.383,,No Quantity,,Still_2to10L,,,
+United Kingdom,2020,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,29975015.405,,No Quantity,,Still_2to10L,,,
+United Kingdom,2020,"Wine; still, in containers holding more than 10 litres",Export,66210778.606,,No Quantity,,Still_Bulk,,,
+United Kingdom,2020,"Wine; still, in containers holding more than 10 litres",Import,781376799.046,,No Quantity,,Still_Bulk,,,
+United Kingdom,2019,Wine; sparkling,Import,932274917.071,152735188.0,Volume in litres,154910292.0,Sparkling,154910292.0,6.018159962354212,4.513619971765659
+United Kingdom,2019,Wine; sparkling,Export,65864253.156,3833699.137,Volume in litres,3344719.244,Sparkling,3344719.244,19.6920124982544,14.7690093736908
+United Kingdom,2019,Wine; sparkling,Re-Export,4387070.461,151008.0,Volume in litres,147301.0,Sparkling,147301.0,29.78303243698278,22.337274327737084
+United Kingdom,2019,"Wine; still, in containers holding 2 litres or less",Import,2787569728.116,,No Quantity,,Still_Bottled,,,
+United Kingdom,2019,"Wine; still, in containers holding 2 litres or less",Export,686961159.152,,No Quantity,,Still_Bottled,,,
+United Kingdom,2019,"Wine; still, in containers holding 2 litres or less",Re-Export,37312185.445,,No Quantity,,Still_Bottled,,,
+United Kingdom,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Import,29991497.59,,No Quantity,,Still_2to10L,,,
+United Kingdom,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Re-Export,10798.367,,No Quantity,,Still_2to10L,,,
+United Kingdom,2019,"Wine; still, in containers holding more than 2 litres but not more than 10 litres",Export,19173676.76,,No Quantity,,Still_2to10L,,,
+United Kingdom,2019,"Wine; still, in containers holding more than 10 litres",Import,671706017.749,,No Quantity,,Still_Bulk,,,
+United Kingdom,2019,"Wine; still, in containers holding more than 10 litres",Export,64280858.843,33403349.371,No Quantity,,Still_Bulk,33403349.371,1.9243836337803637,1.4432877253352727
+United Kingdom,2019,"Wine; still, in containers holding more than 10 litres",Re-Export,23107.61,10037.0,Volume in litres,9041.0,Still_Bulk,9041.0,2.5558688198208164,1.9169016148656124
