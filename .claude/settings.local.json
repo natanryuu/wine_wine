@@ -1,12 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python wine_supply_demand.py)",
-      "PowerShell(python wine_supply_demand.py 2>&1)",
-      "PowerShell(python wine_supply_demand.py)",
-      "PowerShell(python -u wine_supply_demand.py > run_log.txt 2>&1; Get-Content run_log.txt)",
-      "Bash(echo \"EXIT=$?\")",
-      "Bash(python -c \"print\\('hello'\\)\")"
+      "Bash(python3 -m py_compile /Users/danniryu/Desktop/proj/wine_wine/vivino_rose_scraper.py)",
+      "Bash(python3 -m py_compile /Users/danniryu/Desktop/proj/wine_wine/wine_competitive_analysis.py)",
+      "Bash(python3 -c ' *)",
+      "Bash(python un_comtrade_clean.py)",
+      "Bash(python wine_competitive_analysis.py)",
+      "Bash(python wine_supply_demand.py)"
     ]
   }
 }

@@ -125,7 +125,7 @@ print(f"  → 合計 {len(df_stock_prod)} 筆")
 
 PROD_FILES = {
     "2019": "2019 - Relevé par département de la production des vins.xlsx",
-    # "2020": 本機 raw_data/Frace/Production/ 沒有 2020 年那份檔，先略過
+    "2020": "2020 - Relevé par département de la production des vins rectifié.xls",
     "2021": "2021 - Relevé par département de la production des vins dépt 32 rectifié.xlsx",
     "2022": "2022 - Relevé par département de la production des vins dépt 32 rectifié.xlsx",
     "2023": "2023 - Relevé par département de la production des vins OPENDATA rectifié au 08-07-2024.xlsx",
