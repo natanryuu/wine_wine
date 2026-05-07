@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python wine_supply_demand.py)",
+      "PowerShell(python wine_supply_demand.py 2>&1)",
+      "PowerShell(python wine_supply_demand.py)",
+      "PowerShell(python -u wine_supply_demand.py > run_log.txt 2>&1; Get-Content run_log.txt)",
+      "Bash(echo \"EXIT=$?\")",
+      "Bash(python -c \"print\\('hello'\\)\")"
+    ]
+  }
+}

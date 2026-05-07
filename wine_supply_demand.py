@@ -20,20 +20,23 @@ import os
 import warnings
 warnings.filterwarnings('ignore')
 
-DATA_DIR = "/mnt/user-data/uploads"
-OUTPUT_DIR = "/home/claude"
+ROOT = os.path.dirname(os.path.abspath(__file__))
+STOCK_DIR = os.path.join(ROOT, "raw_data", "Frace", "Stocks")
+PROD_DIR = os.path.join(ROOT, "raw_data", "Frace", "Production")
+OUTPUT_DIR = os.path.join(ROOT, "data")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ============================================================================
 # 1. 解析 B 類: 生產庫存
 # ============================================================================
 
 STOCK_FILES = {
-    "2019-2020": "2020_07_31_-_Stocks_a__la_production_et_au_commerce_-_De_claration_de_stock_2019-2020.xlsx",
-    "2020-2021": "Stocks_a__la_production_et_au_commerce_-_De_claration_de_stock_2020-2021_pour_DATADOUANE.xlsx",
-    "2021-2022": "Stocks_a__la_production_et_au_commerce_-_De_claration_de_stock_2021-2022_pour_DATADOUANE.xlsx",
-    "2022-2023": "Stocks_a__la_production_et_au_commerce_-_De_claration_de_stock_2022-2023_pour_DATADOUANE_0.xlsx",
-    "2023-2024": "Stocks_a__la_production_et_au_commerce_-_De_claration_de_stock_2023-2024_pour_DATADOUANE.xlsx",
-    "2024-2025": "Stocks_a__la_production_et_au_commerce_-_De_claration_de_stock_2024-2025_pour_DATADOUANE.xlsx",
+    "2019-2020": "2020.07.31 - Stocks à la production et au commerce - Déclaration de stock 2019-2020.xlsx",
+    "2020-2021": "Stocks à la production et au commerce - Déclaration de stock 2020-2021 pour DATADOUANE.xlsx",
+    "2021-2022": "Stocks à la production et au commerce - Déclaration de stock 2021-2022 pour DATADOUANE.xlsx",
+    "2022-2023": "Stocks à la production et au commerce - Déclaration de stock 2022-2023 pour DATADOUANE_0.xlsx",
+    "2023-2024": "Stocks à la production et au commerce - Déclaration de stock 2023-2024 pour DATADOUANE.xlsx",
+    "2024-2025": "Stocks à la production et au commerce - Déclaration de stock 2024-2025 pour DATADOUANE.xlsx",
 }
 
 def parse_stock_file(filepath: str, campagne: str) -> pd.DataFrame:
@@ -104,7 +107,7 @@ def parse_stock_file(filepath: str, campagne: str) -> pd.DataFrame:
 print("📦 解析 B 類: 生產庫存...")
 dfs_stock = []
 for camp, fn in STOCK_FILES.items():
-    fp = os.path.join(DATA_DIR, fn)
+    fp = os.path.join(STOCK_DIR, fn)
     if os.path.exists(fp):
         d = parse_stock_file(fp, camp)
         dfs_stock.append(d)
@@ -121,12 +124,12 @@ print(f"  → 合計 {len(df_stock_prod)} 筆")
 # ============================================================================
 
 PROD_FILES = {
-    "2019": "2019_-_Releve__par_de_partement_de_la_production_des_vins.xlsx",
-    "2020": "2020_-_Releve__par_de_partement_de_la_production_des_vins_rectifie_.xls",
-    "2021": "2021_-_Releve__par_de_partement_de_la_production_des_vins_de_pt_32_rectifie_.xlsx",
-    "2022": "2022_-_Releve__par_de_partement_de_la_production_des_vins_de_pt_32_rectifie_.xlsx",
-    "2023": "2023_-_Releve__par_de_partement_de_la_production_des_vins_OPENDATA_rectifie__au_08-07-2024.xlsx",
-    "2024": "2024_-_Releve__par_de_partement_de_la_production_des_vins_OPENDATA.xlsx",
+    "2019": "2019 - Relevé par département de la production des vins.xlsx",
+    # "2020": 本機 raw_data/Frace/Production/ 沒有 2020 年那份檔，先略過
+    "2021": "2021 - Relevé par département de la production des vins dépt 32 rectifié.xlsx",
+    "2022": "2022 - Relevé par département de la production des vins dépt 32 rectifié.xlsx",
+    "2023": "2023 - Relevé par département de la production des vins OPENDATA rectifié au 08-07-2024.xlsx",
+    "2024": "2024 - Relevé par département de la production des vins OPENDATA.xlsx",
 }
 
 def extract_dept_code_production(s: str) -> str:
@@ -217,7 +220,7 @@ def parse_production_file(filepath: str, year: str) -> pd.DataFrame:
 print("\n🍇 解析 C 類: 產量...")
 dfs_prod = []
 for year, fn in PROD_FILES.items():
-    fp = os.path.join(DATA_DIR, fn)
+    fp = os.path.join(PROD_DIR, fn)
     if os.path.exists(fp):
         d = parse_production_file(fp, year)
         dfs_prod.append(d)

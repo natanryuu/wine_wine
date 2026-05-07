@@ -44,19 +44,19 @@ warnings.filterwarnings('ignore')
 # 1. 設定檔案路徑
 # ============================================================================
 
-# 請依據你的檔案實際路徑修改此處
-DATA_DIR = "/raw_data"
+ROOT = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(ROOT, "raw_data", "Frace", "Campagne viti-vinicole")
+OUTPUT_DIR = os.path.join(ROOT, "data")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 FILES = {
     "2019-2020": os.path.join(DATA_DIR, "Campagne-2019-2020.xls"),
     "2020-2021": os.path.join(DATA_DIR, "Campagne-2020-2021.xls"),
     "2021-2022": os.path.join(DATA_DIR, "Campagne-2021-2022.xls"),
-    "2022-2023": os.path.join(DATA_DIR, "Etats_161_DATADOUANE_Campagne_2022-2023_0.xlsx"),
-    "2023-2024": os.path.join(DATA_DIR, "Etats_161_DATADOUANE_Campagne_2023-2024.xlsx"),
-    "2024-2025": os.path.join(DATA_DIR, "Etats_161_DATADOUANE_Campagne_2024-2025.xlsx"),
+    "2022-2023": os.path.join(DATA_DIR, "Etats 161 DATADOUANE Campagne 2022-2023_0.xlsx"),
+    "2023-2024": os.path.join(DATA_DIR, "Etats 161 DATADOUANE Campagne 2023-2024.xlsx"),
+    "2024-2025": os.path.join(DATA_DIR, "Etats 161 DATADOUANE Campagne 2024-2025.xlsx"),
 }
-
-OUTPUT_DIR = DATA_DIR
 
 # ============================================================================
 # 2. 月份對照表 (法文月份 → 數字)
