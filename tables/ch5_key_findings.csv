@@ -1,0 +1,20 @@
+﻿章節,指標,數字,備註
+Ch.1,法國 2024 出口均價,$6.35/瓶 750ml,UN Comtrade Still_Bottled 出口
+Ch.1,法國均價 CAGR (2019-2024),+6.1%/年,驗證 premiumization 趨勢
+Ch.1,法國出口量 CAGR,-3.4%/年,量跌
+Ch.1,法國出口值 CAGR,+2.5%/年,值穩
+Ch.1,法國 vs 全球均價溢價,1.49×,France ÷ 全球加權均價
+Ch.1,法國均價 vs 其他 7 國 Welch t-test,"t=6.71, p=2.42e-05***",法國均價顯著高於對照組
+Ch.2,Provence Rosé 樣本數,954 支,Wine Enthusiast
+Ch.2,Provence 平均評分,88.06 分,法國 11 產區之冠（與香檳並列）
+Ch.2,Provence 平均價格,$22.09,中位 $19
+Ch.2,法國 Rosé $30+ 高端帶占比,21.2%,其他國家平均不到 10%
+Ch.2,法國 vs 非法國 價格帶 χ² 檢定,"χ²=251.7, p=1.79e-51",分布顯著不同
+Ch.2,Provence vs 非 Provence 評分,"中位 88 vs 87, d=0.36, p=7.66e-30",靠品質而非價格差異化
+Ch.3,Var (83) 2024-25 庫存周轉率,3.8 月,5 大產區最快
+Ch.3,Bordeaux (33) 2024-25 庫存周轉率,23.8 月,結構性過剩
+Ch.3,Var 出莊量 CAGR (6 年),+4.6%/年,需求拉動型市場
+Ch.3,Var Sans IG 占比變遷,2.1% → 6.2%,"年增 +0.85%, R²=0.95"
+Ch.3,Var vs Bordeaux 周轉率配對 t,"t=-21.31, p=4.22e-06",差距顯著
+Ch.4,三層論證,global premium → Provence 品質 → 海關驗證,三層數據支撐 premiumization 命題
+Ch.4,進口市場優先排序矩陣,高價高量象限 = 優先進入 / 高價低量 = 利基培育,為 Stage 2 ML 排序模型奠基
