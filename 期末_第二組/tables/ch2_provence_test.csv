@@ -1,0 +1,3 @@
+﻿指標,n_Provence,n_非Provence,Provence 中位,非 Provence 中位,Mann-Whitney U,p 值,Cohen's d,rank-biserial r,顯著
+價格,825,4970,19.0,18.0,2156856,1.63e-02,-0.099,0.052,*
+評分,954,5402,88.0,87.0,3165782,7.66e-30,0.359,0.229,***
